@@ -1,0 +1,91 @@
+# -*- coding:utf-8 -*-
+import requests
+import datetime
+import os
+import xml.etree.ElementTree as ET
+
+def get_epgs_rthk(channel, channel_id, dt, func_arg):
+    epgs = []
+    msg = ''
+    success = 1
+    try:
+        # 获取当天日期
+        date_to_fetch = datetime.date.today()
+
+        # 构建RTHK电台的URL
+        url = f'https://apip01.rthk.hk/assets/schedule/rthk_radio{channel_id}_schedule.xml'
+        res = requests.get(url)
+        res.encoding = 'utf-8'
+        xml_data = res.text
+        root = ET.fromstring(xml_data)
+
+        # 遍历每个节目
+        for program in root.findall('program'):
+            title = program.find('title').text
+            presenter = program.find('presenter').text
+            showtime = program.find('showtime').text
+
+            # 提取开始时间和结束时间
+            start_time, end_time = showtime.split('-')
+
+            starttime = datetime.datetime.strptime(date_to_fetch.strftime('%Y-%m-%d') + ' ' + start_time, '%Y-%m-%d %H:%M')
+            endtime = datetime.datetime.strptime(date_to_fetch.strftime('%Y-%m-%d') + ' ' + end_time, '%Y-%m-%d %H:%M')
+
+            epg = {
+                'channel_id': channel.id,
+                'starttime': starttime,
+                'endtime': endtime,
+                'title': title,
+                'desc': '',
+                'presenter': presenter,  # 添加主持人信息
+                'program_date': date_to_fetch,
+            }
+            epgs.append(epg)
+    except Exception as e:
+        success = 0
+        spidername = os.path.basename(__file__).split('.')[0]
+        msg = 'spider-%s- %s' % (spidername, e)
+    
+    ret = {
+        'success': success,
+        'epgs': epgs,
+        'msg': msg,
+        'last_program_date': date_to_fetch,
+        'ban': 0,
+    }
+    return ret
+
+def get_channels_rthk():
+    # 定义RTHK电台的频道信息
+    channels = {
+        1: "香港电台第1台",
+        2: "香港电台第2台",
+        3: "香港电台第3台",
+        4: "香港电台第4台",
+        5: "香港电台第5台"
+    }
+    
+    channel_list = []
+    
+    for channel_id, name in channels.items():
+        channel = {
+            'name': name,
+            'id': [channel_id],
+            'url': f'https://apip01.rthk.hk/assets/schedule/rthk_radio{channel_id}_schedule.xml',
+            'source': 'rthk',
+            'logo': '',
+            'desc': '',
+            'sort': '香港',
+            'newestdate': ''
+        }
+        channel_list.append(channel)
+    
+    return channel_list
+
+# 测试代码
+if __name__ == "__main__":
+    channels = get_channels_rthk()
+    for channel in channels:
+        epg_data = get_epgs_rthk(channel, channel['id'][0], datetime.date.today(), None)
+        print(f"{channel['name']} EPG数据：")
+        print(epg_data)

@@ -1,0 +1,60 @@
+import requests
+import xml.etree.ElementTree as ET
+from datetime import datetime
+
+# 创建根元素
+root = ET.Element("rthkradio")
+
+# 五个不同的频道ID
+channel_ids = ["1", "2", "3", "4", "5"]
+
+for channel_id in channel_ids:
+    # 获取当前日期
+    current_date = datetime.now().strftime("%Y%m%d")
+
+    # 构建URL
+    url = f"https://apip01.rthk.hk/assets/schedule/rthk_radio{channel_id}_schedule.xml"
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        # 解析XML内容
+        channel_root = ET.fromstring(response.content)
+
+        # 遍历节目信息
+        for program in channel_root.findall('.//program'):
+            title = program.find('title').text
+            presenter = program.find('presenter').text
+            
+            # 获取开始时间和结束时间
+            showtime = program.find('showtime').text
+            start_time, end_time = showtime.split('-')
+            
+            # 格式化时间为 %Y%m%d%H%M 格式，并添加当前日期
+            formatted_start_time = current_date + datetime.strptime(start_time, "%H:%M").strftime("%H%M")
+            formatted_end_time = current_date + datetime.strptime(end_time, "%H:%M").strftime("%H%M")
+            
+            # 创建节目元素并添加到根元素
+            program_element = ET.SubElement(root, "program")
+            title_element = ET.SubElement(program_element, "title")
+            title_element.text = title
+            presenter_element = ET.SubElement(program_element, "presenter")
+            presenter_element.text = presenter
+            showtime_element = ET.SubElement(program_element, "showtime")
+            showtime_element.text = f"{formatted_start_time}-{formatted_end_time}"
+
+    else:
+        print(f"无法下载频道 {channel_id} 的文件，HTTP响应状态码: {response.status_code}")
+
+# 创建ElementTree对象
+tree = ET.ElementTree(root)
+
+# 保存XML到文件，带注释和XML声明
+tree.write("rthkradio.xml", encoding="utf-8", xml_declaration=True)
+
+# 打开XML文件，添加注释
+with open("rthkradio.xml", "r+") as f:
+    content = f.read()
+    f.seek(0, 0)
+    f.write("<!-- 这是一个包含五个频道的EPG数据 -->\n" + content)
+
+print("XML文件 'rthkradio.xml' 已生成并带有注释和XML声明。")
