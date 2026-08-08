@@ -107315,6 +107315,150 @@
         <title lang="zh">有線新聞</title>
         <desc lang="zh">有線新聞</desc>
     </programme>
+    <programme start="20260809000000 +0800" stop="20260809003000 +0800" channel="124">
+        <title lang="zh">HOY娛樂一周</title>
+        <desc lang="zh">HOY娛樂一周</desc>
+    </programme>
+    <programme start="20260809003000 +0800" stop="20260809010000 +0800" channel="124">
+        <title lang="zh">因乜事周圍遊</title>
+        <desc lang="zh">因乜事周圍遊</desc>
+    </programme>
+    <programme start="20260809010000 +0800" stop="20260809013000 +0800" channel="124">
+        <title lang="zh">勝在有設計</title>
+        <desc lang="zh">勝在有設計</desc>
+    </programme>
+    <programme start="20260809013000 +0800" stop="20260809020000 +0800" channel="124">
+        <title lang="zh">馬田點食記 台灣篇</title>
+        <desc lang="zh">馬田點食記 台灣篇</desc>
+    </programme>
+    <programme start="20260809020000 +0800" stop="20260809023000 +0800" channel="124">
+        <title lang="zh">闖出我天地—台青登陸創業紀實</title>
+        <desc lang="zh">闖出我天地—台青登陸創業紀實</desc>
+    </programme>
+    <programme start="20260809023000 +0800" stop="20260809030000 +0800" channel="124">
+        <title lang="zh">亞洲招牌菜</title>
+        <desc lang="zh">亞洲招牌菜</desc>
+    </programme>
+    <programme start="20260809030000 +0800" stop="20260809060000 +0800" channel="124">
+        <title lang="zh">魚樂無限</title>
+        <desc lang="zh">魚樂無限</desc>
+    </programme>
+    <programme start="20260809060000 +0800" stop="20260809070000 +0800" channel="124">
+        <title lang="zh">瘋速滑板賽</title>
+        <desc lang="zh">瘋速滑板賽</desc>
+    </programme>
+    <programme start="20260809070000 +0800" stop="20260809073000 +0800" channel="124">
+        <title lang="zh">亞洲麵包地圖</title>
+        <desc lang="zh">亞洲麵包地圖</desc>
+    </programme>
+    <programme start="20260809073000 +0800" stop="20260809080000 +0800" channel="124">
+        <title lang="zh">3D 國度</title>
+        <desc lang="zh">3D 國度</desc>
+    </programme>
+    <programme start="20260809080000 +0800" stop="20260809090000 +0800" channel="124">
+        <title lang="zh">韓國工藝大師</title>
+        <desc lang="zh">韓國工藝大師</desc>
+    </programme>
+    <programme start="20260809090000 +0800" stop="20260809100000 +0800" channel="124">
+        <title lang="zh">道地生豆乳特約 : 健康原因講多D</title>
+        <desc lang="zh">道地生豆乳特約 : 健康原因講多D</desc>
+    </programme>
+    <programme start="20260809100000 +0800" stop="20260809103000 +0800" channel="124">
+        <title lang="zh">列車人生</title>
+        <desc lang="zh">列車人生</desc>
+    </programme>
+    <programme start="20260809103000 +0800" stop="20260809110000 +0800" channel="124">
+        <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 金牌食相</title>
+        <desc lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 金牌食相</desc>
+    </programme>
+    <programme start="20260809110000 +0800" stop="20260809120000 +0800" channel="124">
+        <title lang="zh">道地蜂蜜綠茶特約 : 山旮旯睇樓團</title>
+        <desc lang="zh">道地蜂蜜綠茶特約 : 山旮旯睇樓團</desc>
+    </programme>
+    <programme start="20260809120000 +0800" stop="20260809123000 +0800" channel="124">
+        <title lang="zh">HOY娛樂一周</title>
+        <desc lang="zh">HOY娛樂一周</desc>
+    </programme>
+    <programme start="20260809123000 +0800" stop="20260809125500 +0800" channel="124">
+        <title lang="zh">午間新聞</title>
+        <desc lang="zh">午間新聞</desc>
+    </programme>
+    <programme start="20260809125500 +0800" stop="20260809130500 +0800" channel="124">
+        <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+        <desc lang="zh">東方表行Take Your Time 特約 : 一刻．時光</desc>
+    </programme>
+    <programme start="20260809130500 +0800" stop="20260809143000 +0800" channel="124">
+        <title lang="zh">廣告強人</title>
+        <desc lang="zh">廣告強人</desc>
+    </programme>
+    <programme start="20260809143000 +0800" stop="20260809150000 +0800" channel="124">
+        <title lang="zh">馬田點食記 台灣篇</title>
+        <desc lang="zh">馬田點食記 台灣篇</desc>
+    </programme>
+    <programme start="20260809150000 +0800" stop="20260809153000 +0800" channel="124">
+        <title lang="zh">運動關注組</title>
+        <desc lang="zh">運動關注組</desc>
+    </programme>
+    <programme start="20260809153000 +0800" stop="20260809160000 +0800" channel="124">
+        <title lang="zh">異鄉人</title>
+        <desc lang="zh">異鄉人</desc>
+    </programme>
+    <programme start="20260809160000 +0800" stop="20260809163000 +0800" channel="124">
+        <title lang="zh">汪汪隊立大功</title>
+        <desc lang="zh">汪汪隊立大功</desc>
+    </programme>
+    <programme start="20260809163000 +0800" stop="20260809170000 +0800" channel="124">
+        <title lang="zh">小樹俠湯姆</title>
+        <desc lang="zh">小樹俠湯姆</desc>
+    </programme>
+    <programme start="20260809170000 +0800" stop="20260809180000 +0800" channel="124">
+        <title lang="zh">韓國工藝大師</title>
+        <desc lang="zh">韓國工藝大師</desc>
+    </programme>
+    <programme start="20260809180000 +0800" stop="20260809183000 +0800" channel="124">
+        <title lang="zh">亞洲招牌菜</title>
+        <desc lang="zh">亞洲招牌菜</desc>
+    </programme>
+    <programme start="20260809183000 +0800" stop="20260809190000 +0800" channel="124">
+        <title lang="zh">雪脈—賽場內外的接力</title>
+        <desc lang="zh">雪脈—賽場內外的接力</desc>
+    </programme>
+    <programme start="20260809190000 +0800" stop="20260809193000 +0800" channel="124">
+        <title lang="zh">7點直播室</title>
+        <desc lang="zh">7點直播室</desc>
+    </programme>
+    <programme start="20260809193000 +0800" stop="20260809200000 +0800" channel="124">
+        <title lang="zh">五平方Squarefoot 優質樓盤專區特約 : 樓盤傳真</title>
+        <desc lang="zh">五平方Squarefoot 優質樓盤專區特約 : 樓盤傳真</desc>
+    </programme>
+    <programme start="20260809200000 +0800" stop="20260809210000 +0800" channel="124">
+        <title lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</title>
+        <desc lang="zh">立邦抗甲醛淨味兒童漆系列特約 : 空間改造王</desc>
+    </programme>
+    <programme start="20260809210000 +0800" stop="20260809213000 +0800" channel="124">
+        <title lang="zh">高鐵旅遊呈獻 : 臥底．高鐵團</title>
+        <desc lang="zh">高鐵旅遊呈獻 : 臥底．高鐵團</desc>
+    </programme>
+    <programme start="20260809213000 +0800" stop="20260809220000 +0800" channel="124">
+        <title lang="zh">關於．快樂的死亡 2</title>
+        <desc lang="zh">關於．快樂的死亡 2</desc>
+    </programme>
+    <programme start="20260809220000 +0800" stop="20260809230000 +0800" channel="124">
+        <title lang="zh">道地生豆乳特約 : 健康原因講多D</title>
+        <desc lang="zh">道地生豆乳特約 : 健康原因講多D</desc>
+    </programme>
+    <programme start="20260809230000 +0800" stop="20260809233000 +0800" channel="124">
+        <title lang="zh">HOY榜啦</title>
+        <desc lang="zh">HOY榜啦</desc>
+    </programme>
+    <programme start="20260809233000 +0800" stop="20260809235500 +0800" channel="124">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260809235500 +0800" stop="20260810000000 +0800" channel="124">
+        <title lang="zh">東方表行Take Your Time 特約 : 一刻．時光</title>
+        <desc lang="zh">東方表行Take Your Time 特約 : 一刻．時光</desc>
+    </programme>
     <channel id="125">
         <display-name lang="zh">HOY TV 資訊台</display-name>
     </channel>
@@ -117141,6 +117285,206 @@
     </programme>
     <programme start="20260810052500 +0800" stop="20260810061500 +0800" channel="132">
         <title lang="zh">歐巴，我愛你</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810070000 +0800" stop="20260810080000 +0800" channel="132">
+        <title lang="zh">早晨新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810080000 +0800" stop="20260810090000 +0800" channel="132">
+        <title lang="zh">澳門早晨</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810090000 +0800" stop="20260810090200 +0800" channel="132">
+        <title lang="zh">TDM 新視點</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810090200 +0800" stop="20260810092500 +0800" channel="132">
+        <title lang="zh">趨記茶餐廳</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810092500 +0800" stop="20260810093000 +0800" channel="132">
+        <title lang="zh">趣談唐詩</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810093000 +0800" stop="20260810095700 +0800" channel="132">
+        <title lang="zh">香港故事 師傅來了2</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810095700 +0800" stop="20260810100000 +0800" channel="132">
+        <title lang="zh">健康天天問</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810100000 +0800" stop="20260810103000 +0800" channel="132">
+        <title lang="zh">新聞報道</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810103000 +0800" stop="20260810111000 +0800" channel="132">
+        <title lang="zh">重播中國城市動態</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810111000 +0800" stop="20260810124500 +0800" channel="132">
+        <title lang="zh">如果奔跑是我的人生</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810124500 +0800" stop="20260810131000 +0800" channel="132">
+        <title lang="zh">超級巴斯德</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810131000 +0800" stop="20260810131200 +0800" channel="132">
+        <title lang="zh">TDM 新視點</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810131200 +0800" stop="20260810131700 +0800" channel="132">
+        <title lang="zh">趣談唐詩</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810131700 +0800" stop="20260810132400 +0800" channel="132">
+        <title lang="zh">啟航十五五</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810132400 +0800" stop="20260810133000 +0800" channel="132">
+        <title lang="zh">午間天氣報告</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810133000 +0800" stop="20260810140000 +0800" channel="132">
+        <title lang="zh">午間新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810140000 +0800" stop="20260810150000 +0800" channel="132">
+        <title lang="zh">每日財經</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810150000 +0800" stop="20260810154000 +0800" channel="132">
+        <title lang="zh">重播中國城市動態</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810154000 +0800" stop="20260810160000 +0800" channel="132">
+        <title lang="zh">澳門早晨精華錄</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810160000 +0800" stop="20260810160500 +0800" channel="132">
+        <title lang="zh">趣談唐詩</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810160500 +0800" stop="20260810161000 +0800" channel="132">
+        <title lang="zh">兒童節目︰鉛筆塗鴉創意動畫</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810161000 +0800" stop="20260810163000 +0800" channel="132">
+        <title lang="zh">兒童節目︰開心超人聯盟之平行時空大冒險 (第十八季)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810163000 +0800" stop="20260810170000 +0800" channel="132">
+        <title lang="zh">兒童節目︰天才小魯班</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810170000 +0800" stop="20260810175000 +0800" channel="132">
+        <title lang="zh">兒童節目︰少年英雄小哪吒</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810175000 +0800" stop="20260810175800 +0800" channel="132">
+        <title lang="zh">兒童節目︰漢字故事 -《百家姓》</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810175800 +0800" stop="20260810183800 +0800" channel="132">
+        <title lang="zh">動感教菁</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810183800 +0800" stop="20260810184300 +0800" channel="132">
+        <title lang="zh">趣談唐詩</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810184300 +0800" stop="20260810185000 +0800" channel="132">
+        <title lang="zh">啟航十五五</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810185000 +0800" stop="20260810190000 +0800" channel="132">
+        <title lang="zh">新聞提要</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810190000 +0800" stop="20260810195500 +0800" channel="132">
+        <title lang="zh">澳視新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810195500 +0800" stop="20260810200000 +0800" channel="132">
+        <title lang="zh">天氣報告</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810200000 +0800" stop="20260810213300 +0800" channel="132">
+        <title lang="zh">如果奔跑是我的人生</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810213300 +0800" stop="20260810215700 +0800" channel="132">
+        <title lang="zh">家家有本事</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810215700 +0800" stop="20260810220000 +0800" channel="132">
+        <title lang="zh">健康天天問</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810220000 +0800" stop="20260810223000 +0800" channel="132">
+        <title lang="zh">普通話新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810223000 +0800" stop="20260810230000 +0800" channel="132">
+        <title lang="zh">十點半澳視縱橫︰風火台</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810230000 +0800" stop="20260810231500 +0800" channel="132">
+        <title lang="zh">“你問我答”粵澳法律直播間 </title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810231500 +0800" stop="20260810235000 +0800" channel="132">
+        <title lang="zh">晚間新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260810235000 +0800" stop="20260811000100 +0800" channel="132">
+        <title lang="zh">體育新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811000100 +0800" stop="20260811002700 +0800" channel="132">
+        <title lang="zh">灣區全媒睇</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811002700 +0800" stop="20260811004900 +0800" channel="132">
+        <title lang="zh">家家有本事</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811004900 +0800" stop="20260811011900 +0800" channel="132">
+        <title lang="zh">重播風火台</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811011900 +0800" stop="20260811012700 +0800" channel="132">
+        <title lang="zh">“你問我答”粵澳法律直播間 </title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811012700 +0800" stop="20260811030000 +0800" channel="132">
+        <title lang="zh">如果奔跑是我的人生</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811030000 +0800" stop="20260811032500 +0800" channel="132">
+        <title lang="zh">錄播普通話新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811032500 +0800" stop="20260811040000 +0800" channel="132">
+        <title lang="zh">錄播晚間新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811040000 +0800" stop="20260811042500 +0800" channel="132">
+        <title lang="zh">家家有本事</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811042500 +0800" stop="20260811044700 +0800" channel="132">
+        <title lang="zh">澳門早晨精華錄</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811044700 +0800" stop="20260811051700 +0800" channel="132">
+        <title lang="zh">重播風火台</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260811051700 +0800" stop="20260811052500 +0800" channel="132">
+        <title lang="zh">“你問我答”粵澳法律直播間 </title>
         <desc lang="zh"></desc>
     </programme>
     <channel id="133">
