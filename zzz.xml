@@ -144743,6 +144743,90 @@
         <title lang="zh">UCI公路单车巡回赛2026 -比利时瓦隆站</title>
         <desc lang="zh">uci world tour highlights 2026la fleche wallone</desc>
     </programme>
+    <programme start="20260811000000 +0800" stop="20260811003000 +0800" channel="430">
+        <title lang="zh">UCI公路单车巡回赛2026 -比利时瓦隆站</title>
+        <desc lang="zh">uci world tour highlights 2026la fleche wallone</desc>
+    </programme>
+    <programme start="20260811003000 +0800" stop="20260811022500 +0800" channel="430">
+        <title lang="zh">德甲赛事 -拜仁慕尼黑 对 奥格斯堡 - 2022/23</title>
+        <desc lang="zh">bundesliga archivebayern vs augsburg - 2022/23</desc>
+    </programme>
+    <programme start="20260811022500 +0800" stop="20260811040000 +0800" channel="430">
+        <title lang="zh">德国电竞房车锦标赛2026 -荷兰站</title>
+        <desc lang="zh">dtm esports championship 2026zandvoort</desc>
+    </programme>
+    <programme start="20260811040000 +0800" stop="20260811053000 +0800" channel="430">
+        <title lang="zh">板式网球超级联赛2026 -阿根廷站半准决赛7</title>
+        <desc lang="zh">premier padel 2026buenos aires p1 day 4 qf match 7</desc>
+    </programme>
+    <programme start="20260811053000 +0800" stop="20260811070000 +0800" channel="430">
+        <title lang="zh">板式网球超级联赛2026 -阿根廷站女子组准决赛1</title>
+        <desc lang="zh">premier padel 2026buenos aires p1 day 5 sf1 - women</desc>
+    </programme>
+    <programme start="20260811070000 +0800" stop="20260811073000 +0800" channel="430">
+        <title lang="zh">环法单车赛精华2026 -第3站</title>
+        <desc lang="zh">tour de france highlights 2026stage 3 - granollers - les angles</desc>
+    </programme>
+    <programme start="20260811073000 +0800" stop="20260811080000 +0800" channel="430">
+        <title lang="zh">环法单车赛精华2026 -第4站</title>
+        <desc lang="zh">tour de france highlights 2026stage 4 - carcassonne - foix</desc>
+    </programme>
+    <programme start="20260811080000 +0800" stop="20260811100500 +0800" channel="430">
+        <title lang="zh">UCI女子公路单车巡回赛2026 -环法单车赛 - 第2站</title>
+        <desc lang="zh">uci women&apos;s world tour 2026tour de france femmes - stage 2</desc>
+    </programme>
+    <programme start="20260811100500 +0800" stop="20260811120000 +0800" channel="430">
+        <title lang="zh">德国乙组足球联赛 -马格德堡 对 布伦瑞克</title>
+        <desc lang="zh">bundesliga 2 2026/27magdeburg vs braunschweig</desc>
+    </programme>
+    <programme start="20260811120000 +0800" stop="20260811123000 +0800" channel="430">
+        <title lang="zh">法国网球公开赛2026赛事精华 -男单准决赛 - 施华利夫 对 文锡</title>
+        <desc lang="zh">mini match - roland garros 2026men&apos;s singles sf 1 zverev v mensik</desc>
+    </programme>
+    <programme start="20260811123000 +0800" stop="20260811130000 +0800" channel="430">
+        <title lang="zh">法国网球公开赛2026赛事精华 -男双决赛 - 格罗拿斯/施巴路斯 对 希利奥华拉/柏顿</title>
+        <desc lang="zh">mini match - roland garros 2026men&apos;s doubles final granollers/zeballos v heliovaara/patten</desc>
+    </programme>
+    <programme start="20260811130000 +0800" stop="20260811142000 +0800" channel="430">
+        <title lang="zh">全德汽车俱乐部GT4锦标赛2026 -诺利斯林站主赛事1</title>
+        <desc lang="zh">adac gt4 germany 2026norisring race 1</desc>
+    </programme>
+    <programme start="20260811142000 +0800" stop="20260811154000 +0800" channel="430">
+        <title lang="zh">全德汽车俱乐部GT4锦标赛2026 -诺利斯林站主赛事2</title>
+        <desc lang="zh">adac gt4 germany 2026norisring race 2</desc>
+    </programme>
+    <programme start="20260811154000 +0800" stop="20260811155000 +0800" channel="430">
+        <title lang="zh">板式网球超级联赛赛事精华2026 -意大利站女子组</title>
+        <desc lang="zh">premier padel match highlights 2026italy major women</desc>
+    </programme>
+    <programme start="20260811155000 +0800" stop="20260811160000 +0800" channel="430">
+        <title lang="zh">板式网球超级联赛赛事精华2026 -意大利站男子组</title>
+        <desc lang="zh">premier padel match highlights 2026italy major men</desc>
+    </programme>
+    <programme start="20260811160000 +0800" stop="20260811175000 +0800" channel="430">
+        <title lang="zh">德甲赛事 -拜仁慕尼黑 对 多蒙特 - 2024/25</title>
+        <desc lang="zh">bundesliga archivebayern vs dortmund - 2024/25</desc>
+    </programme>
+    <programme start="20260811175000 +0800" stop="20260811194000 +0800" channel="430">
+        <title lang="zh">德国乙组足球联赛 -纽伦堡 对 德雷斯顿戴拿模</title>
+        <desc lang="zh">bundesliga 2 2026/27nuremberg vs dynamo dresden</desc>
+    </programme>
+    <programme start="20260811194000 +0800" stop="20260811204000 +0800" channel="430">
+        <title lang="zh">德国房车大师赛精华2026 -荷兰站</title>
+        <desc lang="zh">dtm highlights 2026zandvoort</desc>
+    </programme>
+    <programme start="20260811204000 +0800" stop="20260811211000 +0800" channel="430">
+        <title lang="zh">环法单车赛精华2026 -上萨瓦省</title>
+        <desc lang="zh">tour de france highlights 2026weekly highlights 2 - haute savoie</desc>
+    </programme>
+    <programme start="20260811211000 +0800" stop="20260811221000 +0800" channel="430">
+        <title lang="zh">法拉利欧洲挑战赛精华2026 -勒卡斯泰莱站</title>
+        <desc lang="zh">ferrari challenge europe highlights 2026le castellet</desc>
+    </programme>
+    <programme start="20260811221000 +0800" stop="20260812000000 +0800" channel="430">
+        <title lang="zh">德国乙组足球联赛 -海登咸 对 奥斯纳贝克</title>
+        <desc lang="zh">bundesliga 2 2026/27heidenheim 1846 vs osnabruck</desc>
+    </programme>
     <channel id="431">
         <display-name lang="zh">NBATV</display-name>
     </channel>
@@ -240353,6 +240437,172 @@ USA 2024 Schroederovi shánějí krevní transfúzi pro border kolii, která se�
     <programme start="20260811072100 +0800" stop="20260811080700 +0800" channel="2141">
         <title lang="zh">普雷杜尔塞尼·扎比杰特 IV (3) / Předurčeni zabíjet IV (3)&lt;Předurčeni zabíjet IV (3)&gt;</title>
         <desc lang="zh">(Žralok bílý), 新西兰, 英国 2011 年 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisic kilometrů.，（系列，文档） / (Žralok bílý), New Zealand, United Kingdom 2011 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisíc kilometrů., (seriál, dokument)&lt;(Žralok bílý), New Zealand, United Kingdom 2011 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisíc kilometrů., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811072100 +0800" stop="20260811080700 +0800" channel="2141">
+        <title lang="zh">普雷杜尔塞尼·扎比杰特 IV (3) / Předurčeni zabíjet IV (3)&lt;Předurčeni zabíjet IV (3)&gt;</title>
+        <desc lang="zh">(Žralok bílý), 新西兰, 英国 2011 年 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisic kilometrů.，（系列，文档） / (Žralok bílý), New Zealand, United Kingdom 2011 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisíc kilometrů., (seriál, dokument)&lt;(Žralok bílý), New Zealand, United Kingdom 2011 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisíc kilometrů., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811080700 +0800" stop="20260811085300 +0800" channel="2141">
+        <title lang="zh">普雷杜尔塞尼·扎比杰特 IV (4) / Předurčeni zabíjet IV (4)&lt;Předurčeni zabíjet IV (4)&gt;</title>
+        <desc lang="zh">(Krokodýl)，新西兰，英国 2011 Krokodýl je největší predátor ze všech plazů。 Aby se však stal zabijákem, musí několik let intenzivně trénovat.,（系列，文档） / (Krokodýl), New Zealand, United Kingdom 2011 Krokodýl je největší predátor ze všech plazů. Aby se však stal zabijákem, musí několik let intenzivně trénovat., (seriál, dokument)&lt;(Krokodýl), New Zealand, United Kingdom 2011 Krokodýl je největší predátor ze všech plazů. Aby se však stal zabijákem, musí několik let intenzivně trénovat., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811085300 +0800" stop="20260811093900 +0800" channel="2141">
+        <title lang="zh">Přistiženi při činu IV (6) / Přistiženi při činu IV (6)&lt;Přistiženi při činu IV (6)&gt;</title>
+        <desc lang="zh">（Život a smrt），美国 2011 年 Příroda ve své nejsyrovější podobě může být krásná，ale i hrůzná。 Příběhy vítězství i porážek v africké divočině, od brutálního zabíjení přes pozoruhodnou odvahu až po zázrak zrození., (文档) / (Život a smrt), USA 2011 Příroda ve své nejsyrovější podobě může být krásná, ale i hrůzná. Příběhy vítězství i porážek v africké divočině, od brutálního zabíjení přes pozoruhodnou odvahu až po zázrak zrození., (dokument)&lt;(Život a smrt), USA 2011 Příroda ve své nejsyrovější podobě může být krásná, ale i hrůzná. Příběhy vítězství i porážek v africké divočině, od brutálního zabíjení přes pozoruhodnou odvahu až po zázrak zrození., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811093900 +0800" stop="20260811102500 +0800" channel="2141">
+        <title lang="zh">普雷杜尔切尼·扎比杰特 IV (2) / Předurčeni zabíjet IV (2)&lt;Předurčeni zabíjet IV (2)&gt;</title>
+        <desc lang="zh">(Lední medvěd)，新西兰，英国 2011 Lední medvěd je největší suchozemský 捕食者。 Rodí se ale slepý a hluchý。 Jak se z bezmocného medvíděte stane úspěšný zabiják?,（系列，文档） / (Lední medvěd), New Zealand, United Kingdom 2011 Lední medvěd je největší suchozemský predátor. Rodí se ale slepý a hluchý. Jak se z bezmocného medvíděte stane úspěšný zabiják?, (seriál, dokument)&lt;(Lední medvěd), New Zealand, United Kingdom 2011 Lední medvěd je největší suchozemský predátor. Rodí se ale slepý a hluchý. Jak se z bezmocného medvíděte stane úspěšný zabiják?, (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811102500 +0800" stop="20260811111100 +0800" channel="2141">
+        <title lang="zh">普雷杜尔塞尼·扎比杰特 IV (3) / Předurčeni zabíjet IV (3)&lt;Předurčeni zabíjet IV (3)&gt;</title>
+        <desc lang="zh">(Žralok bílý), 新西兰, 英国 2011 年 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisic kilometrů.，（系列，文档） / (Žralok bílý), New Zealand, United Kingdom 2011 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisíc kilometrů., (seriál, dokument)&lt;(Žralok bílý), New Zealand, United Kingdom 2011 Budete sledovat impozantní migraci březí samice z Austrálie do Jižní Afriky. Za 99 dní zdolá přes 11 tisíc kilometrů., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811111100 +0800" stop="20260811120300 +0800" channel="2141">
+        <title lang="zh">普雷杜尔塞尼·扎比杰特 IV (4) / Předurčeni zabíjet IV (4)&lt;Předurčeni zabíjet IV (4)&gt;</title>
+        <desc lang="zh">(Krokodýl)，新西兰，英国 2011 Krokodýl je největší predátor ze všech plazů。 Aby se však stal zabijákem, musí několik let intenzivně trénovat.,（系列，文档） / (Krokodýl), New Zealand, United Kingdom 2011 Krokodýl je největší predátor ze všech plazů. Aby se však stal zabijákem, musí několik let intenzivně trénovat., (seriál, dokument)&lt;(Krokodýl), New Zealand, United Kingdom 2011 Krokodýl je největší predátor ze všech plazů. Aby se však stal zabijákem, musí několik let intenzivně trénovat., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811120300 +0800" stop="20260811124800 +0800" channel="2141">
+        <title lang="zh">登瓦拉纳 / Den varana&lt;Den varana&gt;</title>
+        <desc lang="zh">Velká Británie 2024 Být největšim ještěrem na světě je dřina。 Den pro něj začíná ještě před východem slunce。 Konkurence je tak tvrdá，ze si nemůze dovolit zpomalit。 Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca.,（文档） / Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&lt;Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811124800 +0800" stop="20260811131100 +0800" channel="2141">
+        <title lang="zh">Život psounů I (1) / Život psounů I (1)&lt;Život psounů I (1)&gt;</title>
+        <desc lang="zh">Tenkrát v 诺维姆·梅西库
+ USA 2018 Po čtyřměsíčním zimním spánku se začínají v severním Novém Mexiku objevovat samci psounů. Zatímco samice dál spí vnorách, samci soupeří o nadvládu.,（文档），美国，2018 / Tenkrát v Novém Mexiku
+USA 2018 Po čtyřměsíčním zimním spánku se začínají v severním Novém Mexiku objevovat samci psounů. Zatímco samice dál spí v norách, samci soupeří o nadvládu., (dokument), USA, 2018&lt;Tenkrát v Novém Mexiku
+USA 2018 Po čtyřměsíčním zimním spánku se začínají v severním Novém Mexiku objevovat samci psounů. Zatímco samice dál spí v norách, samci soupeří o nadvládu., (dokument), USA, 2018&gt;</desc>
+    </programme>
+    <programme start="20260811131100 +0800" stop="20260811133600 +0800" channel="2141">
+        <title lang="zh">Skvělá farma doktora Pola I (9) / Skvělá farma doktora Pola I (9)&lt;Skvělá farma doktora Pola I (9)&gt;</title>
+        <desc lang="zh">问题与问题
+ USA 2022 Je pozdní podzim, zimní mrazy jsou za dveřmi a Polovi musí rychle opravit nefunkční odpady v příbytku pro hospodářská zvířata. Rodina si na svou farmu pořizuje novou ovci.（文档） / Problémy v rouše beránčím
+USA 2022 Je pozdní podzim, zimní mrazy jsou za dveřmi a Polovi musí rychle opravit nefunkční odpady v příbytku pro hospodářská zvířata. Rodina si na svou farmu pořizuje novou ovci., (dokument)&lt;Problémy v rouše beránčím
+USA 2022 Je pozdní podzim, zimní mrazy jsou za dveřmi a Polovi musí rychle opravit nefunkční odpady v příbytku pro hospodářská zvířata. Rodina si na svou farmu pořizuje novou ovci., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811133600 +0800" stop="20260811142000 +0800" channel="2141">
+        <title lang="zh">扎哈德尼德拉西 / Záhadní draci&lt;Záhadní draci&gt;</title>
+        <desc lang="zh">USA 2024 Varan komodský，známý také jako komodský drak，我占主导地位的druhem eko​​systému，který obývá。 如果没有任何目的，则目标物将不会被窃取，我会以超级掠夺性的方式破坏掠夺性，但我不会这样做。 Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají.,（文档） / USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&lt;USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811142000 +0800" stop="20260811150500 +0800" channel="2141">
+        <title lang="zh">科西西塔克蒂卡 / Kočičí taktika&lt;Kočičí taktika&gt;</title>
+        <desc lang="zh">USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky.,（文档） / USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky., (dokument)&lt;USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811150500 +0800" stop="20260811155000 +0800" channel="2141">
+        <title lang="zh">登瓦拉纳 / Den varana&lt;Den varana&gt;</title>
+        <desc lang="zh">Velká Británie 2024 Být největšim ještěrem na světě je dřina。 Den pro něj začíná ještě před východem slunce。 Konkurence je tak tvrdá，ze si nemůze dovolit zpomalit。 Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca.,（文档） / Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&lt;Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811155000 +0800" stop="20260811163300 +0800" channel="2141">
+        <title lang="zh">扎哈德尼德拉西 / Záhadní draci&lt;Záhadní draci&gt;</title>
+        <desc lang="zh">USA 2024 Varan komodský，známý také jako komodský drak，我占主导地位的druhem eko​​systému，který obývá。 如果没有任何目的，则目标物将不会被窃取，我会以超级掠夺性的方式破坏掠夺性，但我不会这样做。 Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají.,（文档） / USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&lt;USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811163300 +0800" stop="20260811171800 +0800" channel="2141">
+        <title lang="zh">科西西塔克蒂卡 / Kočičí taktika&lt;Kočičí taktika&gt;</title>
+        <desc lang="zh">USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky.,（文档） / USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky., (dokument)&lt;USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811171800 +0800" stop="20260811180300 +0800" channel="2141">
+        <title lang="zh">Lvice：爱一个přežiješ / Lvice: Lov a přežiješ&lt;Lvice: Lov a přežiješ&gt;</title>
+        <desc lang="zh">JAR 2019 Seznámíme se se třemi lvicemi obývajícími tři různá loviště。 Každá z nich je vystavena jiným situacím, ale cíl mají společný。 Zabít.，（文档，优先），Južná Afrika，2020 / JAR 2019 Seznámíme se se třemi lvicemi obývajícími tři různá loviště. Každá z nich je vystavena jiným situacím, ale cíl mají společný. Zabít., (dokument, príroda), Južná Afrika, 2020&lt;JAR 2019 Seznámíme se se třemi lvicemi obývajícími tři různá loviště. Každá z nich je vystavena jiným situacím, ale cíl mají společný. Zabít., (dokument, príroda), Južná Afrika, 2020&gt;</desc>
+    </programme>
+    <programme start="20260811180300 +0800" stop="20260811184900 +0800" channel="2141">
+        <title lang="zh">Války koček：列夫 vs 杰帕德 / Války koček: Lev versus gepard&lt;Války koček: Lev versus gepard&gt;</title>
+        <desc lang="zh">美国 2011 Uvidíte záběry souboje lva s gepardem objasňující vztah mezi těmito mimořádnými velkými kočkami.,（文档） / USA 2011 Uvidíte záběry souboje lva s gepardem objasňující vztah mezi těmito mimořádnými velkými kočkami., (dokument)&lt;USA 2011 Uvidíte záběry souboje lva s gepardem objasňující vztah mezi těmito mimořádnými velkými kočkami., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811184900 +0800" stop="20260811193400 +0800" channel="2141">
+        <title lang="zh">登瓦拉纳 / Den varana&lt;Den varana&gt;</title>
+        <desc lang="zh">Velká Británie 2024 Být největšim ještěrem na světě je dřina。 Den pro něj začíná ještě před východem slunce。 Konkurence je tak tvrdá，ze si nemůze dovolit zpomalit。 Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca.,（文档） / Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&lt;Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811193400 +0800" stop="20260811201900 +0800" channel="2141">
+        <title lang="zh">苏博吉·德拉克·兹·巴津 / Souboj draků z bažin&lt;Souboj draků z bažin&gt;</title>
+        <desc lang="zh">美国 2016 年佛罗里达州啤酒和鳄鱼。 Který z nich je ale zuřivějším predátorem？ Porovnáme tyto dva pravěké titány a zjistíme pravdu.,（文档） / USA 2016 Florida je domovem aligátorů, ale i krokodýlů. Který z nich je ale zuřivějším predátorem? Porovnáme tyto dva pravěké titány a zjistíme pravdu., (dokument)&lt;USA 2016 Florida je domovem aligátorů, ale i krokodýlů. Který z nich je ale zuřivějším predátorem? Porovnáme tyto dva pravěké titány a zjistíme pravdu., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811201900 +0800" stop="20260811210500 +0800" channel="2141">
+        <title lang="zh">Krokodýlí války：格鲁梅蒂 vs. 马拉 / Krokodýlí války: Grumeti vs. Mara&lt;Krokodýlí války: Grumeti vs. Mara&gt;</title>
+        <desc lang="zh">JAR 2025 Každý rok se 塞伦盖蒂 mění v bojiště。 Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za cherstvými Pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara。 Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné。 麦芽啤酒，proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější。 Přepady，krádeže úlovků，boj o každý kus masa。 Tohle není jen lov, tohle je válka.,（文档） / JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&lt;JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811210500 +0800" stop="20260811215000 +0800" channel="2141">
+        <title lang="zh">克罗科迪尔 – Král australské divočiny / Krokodýl – Král australské divočiny&lt;Krokodýl – Král australské divočiny&gt;</title>
+        <desc lang="zh">JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa。 Během posledních 200 让我来吧，让我成为一名普通民众的爱人。 Odhalujeme，jak tito výjimeční tvorové navzdory všemu dál properují，（文档） / JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa. Během posledních 200 let je komerční lov, zemědělství a růst populace téměř přivedly na pokraj vyhynutí. Odhalujeme, jak tito výjimeční tvorové navzdory všemu dál prosperují, (dokument)&lt;JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa. Během posledních 200 let je komerční lov, zemědělství a růst populace téměř přivedly na pokraj vyhynutí. Odhalujeme, jak tito výjimeční tvorové navzdory všemu dál prosperují, (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811215000 +0800" stop="20260811223300 +0800" channel="2141">
+        <title lang="zh">扎哈德尼德拉西 / Záhadní draci&lt;Záhadní draci&gt;</title>
+        <desc lang="zh">USA 2024 Varan komodský，známý také jako komodský drak，我占主导地位的druhem eko​​systému，který obývá。 如果没有任何目的，则目标物将不会被窃取，我会以超级掠夺性的方式破坏掠夺性，但我不会这样做。 Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají.,（文档） / USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&lt;USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260811223300 +0800" stop="20260811231600 +0800" channel="2141">
+        <title lang="zh">Skvělý Dr. Pol - výběr XIV (4) / Skvělý Dr. Pol - výběr XIV (4)&lt;Skvělý Dr. Pol - výběr XIV (4)&gt;</title>
+        <desc lang="zh">德罗博塔诊所
+ USA 2026 V 是一个特殊的时期，是一个非常重要的时期。 Uvidíte dojemné pouto mezi malými chovateli a jejich zvířaty。 波尔博士（Doktor Pol）是一名医生，他是一名医生。 Děti přitom pomáhají, ptají se a sdílejí radost ze svých úspěchů. Pod vedením doktora Pola se učí odpovědnosti, soucitu i tomu, jak pečovat o zvířata.,（系列，文献），美国，2011 / Drobota na klinice
+USA 2026 V této speciální epizodě zaplní ordinaci děti se svými mazlíčky. Uvidíte dojemné pouto mezi malými chovateli a jejich zvířaty. Doktor Pol a jeho tým ošetřují různorodé případy – od zraněného kotěte až po kozu či ještěra. Děti přitom pomáhají, ptají se a sdílejí radost ze svých úspěchů. Pod vedením doktora Pola se učí odpovědnosti, soucitu i tomu, jak pečovat o zvířata., (seriál, dokument), USA, 2011&lt;Drobota na klinice
+USA 2026 V této speciální epizodě zaplní ordinaci děti se svými mazlíčky. Uvidíte dojemné pouto mezi malými chovateli a jejich zvířaty. Doktor Pol a jeho tým ošetřují různorodé případy – od zraněného kotěte až po kozu či ještěra. Děti přitom pomáhají, ptají se a sdílejí radost ze svých úspěchů. Pod vedením doktora Pola se učí odpovědnosti, soucitu i tomu, jak pečovat o zvířata., (seriál, dokument), USA, 2011&gt;</desc>
+    </programme>
+    <programme start="20260811231600 +0800" stop="20260812000000 +0800" channel="2141">
+        <title lang="zh">Skvělý Dr. Pol - výběr XIV (2) / Skvělý Dr. Pol - výběr XIV (2)&lt;Skvělý Dr. Pol - výběr XIV (2)&gt;</title>
+        <desc lang="zh">德罗博塔
+ USA 2026 V tomto 是兽医诊所的特别项目。 远程操作时，请注意不要将其关闭。 Pol vyjíždí k naléhavému případu na farmu, kde se zkomplikoval porod krávy。 兽医控制中心的速度非常快，可快速进行。 I přes pracovní vytížení si Polovi užívají společné chvíle s novým členem rodiny – chlupatým štěnětem Lily.，（系列，文献），美国，2011 / Ach ta drobota
+USA 2026 V tomto speciálním dílu se tým veterinární kliniky stará hlavně o mláďata. Tele bojuje s vážným zápalem plic, drobné kotě má v těle obrovského parazita a u silnice je zachráněno opuštěné štěně. Dr. Pol vyjíždí k naléhavému případu na farmu, kde se zkomplikoval porod krávy. Veterináři kontrolují celé vrhy štěňat a pomáhají hříběti, které má potíže s chůzí. I přes pracovní vytížení si Polovi užívají společné chvíle s novým členem rodiny – chlupatým štěnětem Lily., (seriál, dokument), USA, 2011&lt;Ach ta drobota
+USA 2026 V tomto speciálním dílu se tým veterinární kliniky stará hlavně o mláďata. Tele bojuje s vážným zápalem plic, drobné kotě má v těle obrovského parazita a u silnice je zachráněno opuštěné štěně. Dr. Pol vyjíždí k naléhavému případu na farmu, kde se zkomplikoval porod krávy. Veterináři kontrolují celé vrhy štěňat a pomáhají hříběti, které má potíže s chůzí. I přes pracovní vytížení si Polovi užívají společné chvíle s novým členem rodiny – chlupatým štěnětem Lily., (seriál, dokument), USA, 2011&gt;</desc>
+    </programme>
+    <programme start="20260812000000 +0800" stop="20260812004500 +0800" channel="2141">
+        <title lang="zh">兹罗泽尼 v 非洲 I (3) / Zrozeni v Africe I (3)&lt;Zrozeni v Africe I (3)&gt;</title>
+        <desc lang="zh">莱克采洛武
+ Francie 2018 新年快乐。 Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají.,（文档，príroda），Francúzsko，2018 / Lekce lovu
+Francie 2018 Naše chlupaté kuličky už znají své místo v rodině. Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají., (dokument, príroda), Francúzsko, 2018&lt;Lekce lovu
+Francie 2018 Naše chlupaté kuličky už znají své místo v rodině. Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají., (dokument, príroda), Francúzsko, 2018&gt;</desc>
+    </programme>
+    <programme start="20260812004500 +0800" stop="20260812013000 +0800" channel="2141">
+        <title lang="zh">兹罗泽尼 v 非洲 I (2) / Zrozeni v Africe I (2)&lt;Zrozeni v Africe I (2)&gt;</title>
+        <desc lang="zh">纳斯特拉希·日沃塔
+ Francie 2018 Každý druh má jiné tempo růstu, a to platí i proces učení. Budeme svědky、jak dny plynou、pokroků i omylů.，（文档，príroda），Francúzsko，2018 / Nástrahy života
+Francie 2018 Každý druh má jiné tempo růstu, a to platí i pro proces učení. Budeme svědky, jak dny plynou, pokroků i omylů., (dokument, príroda), Francúzsko, 2018&lt;Nástrahy života
+Francie 2018 Každý druh má jiné tempo růstu, a to platí i pro proces učení. Budeme svědky, jak dny plynou, pokroků i omylů., (dokument, príroda), Francúzsko, 2018&gt;</desc>
+    </programme>
+    <programme start="20260812013000 +0800" stop="20260812021300 +0800" channel="2141">
+        <title lang="zh">扎哈德尼德拉西 / Záhadní draci&lt;Záhadní draci&gt;</title>
+        <desc lang="zh">USA 2024 Varan komodský，známý také jako komodský drak，我占主导地位的druhem eko​​systému，který obývá。 如果没有任何目的，则目标物将不会被窃取，我会以超级掠夺性的方式破坏掠夺性，但我不会这样做。 Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají.,（文档） / USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&lt;USA 2024 Varan komodský, známý také jako komodský drak, je dominantním druhem ekosystému, který obývá. Nejmohutnější ještěr světa, který byl objeven před více než sto lety, je vybaven řadou superschopností a dokáže porazit predátory desetkrát větší, než je on sám. Pojďme odhalit tajemství, která obřího tvora s hrozivou reputací dodnes opřádají., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260812021300 +0800" stop="20260812025800 +0800" channel="2141">
+        <title lang="zh">兹罗泽尼 v 非洲 I (3) / Zrozeni v Africe I (3)&lt;Zrozeni v Africe I (3)&gt;</title>
+        <desc lang="zh">莱克采洛武
+ Francie 2018 新年快乐。 Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají.,（文档，príroda），Francúzsko，2018 / Lekce lovu
+Francie 2018 Naše chlupaté kuličky už znají své místo v rodině. Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají., (dokument, príroda), Francúzsko, 2018&lt;Lekce lovu
+Francie 2018 Naše chlupaté kuličky už znají své místo v rodině. Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají., (dokument, príroda), Francúzsko, 2018&gt;</desc>
+    </programme>
+    <programme start="20260812025800 +0800" stop="20260812034100 +0800" channel="2141">
+        <title lang="zh">Skvělý Dr. Pol - výběr XIV (5) / Skvělý Dr. Pol - výběr XIV (5)&lt;Skvělý Dr. Pol - výběr XIV (5)&gt;</title>
+        <desc lang="zh">兽医 24/7
+ 美国 2026 年兽医在密歇根州的比赛已经结束 – 整个比赛结束。 请务必立即采取紧急措施 - 立即停止工作，然后再进行紧急处理。 波尔博士（Doktor Pol vyráží）是我的一名医生。 Ať už jde o jakoukoli krizi, tým pohotově zasahuje, improvizuje a poskytuje život zachraňující péči zvířatům malým i velkým.，（系列，文献），美国，2011 / Veterinář 24/7
+USA 2026 Nejoblíbenější veterináři z Michiganu stále ve střehu – zvířecí pohotovosti totiž nezná pevnou pracovní dobu. Tým čelí celé řadě urgentních případů - od kočky napadené mývalem po prase, které má komplikace při porodu. Doktor Pol vyráží i k vážně ohroženému koni a po potyčce zachraňuje zrak malé čivavě. Ať už jde o jakoukoli krizi, tým pohotově zasahuje, improvizuje a poskytuje život zachraňující péči zvířatům malým i velkým., (seriál, dokument), USA, 2011&lt;Veterinář 24/7
+USA 2026 Nejoblíbenější veterináři z Michiganu stále ve střehu – zvířecí pohotovosti totiž nezná pevnou pracovní dobu. Tým čelí celé řadě urgentních případů - od kočky napadené mývalem po prase, které má komplikace při porodu. Doktor Pol vyráží i k vážně ohroženému koni a po potyčce zachraňuje zrak malé čivavě. Ať už jde o jakoukoli krizi, tým pohotově zasahuje, improvizuje a poskytuje život zachraňující péči zvířatům malým i velkým., (seriál, dokument), USA, 2011&gt;</desc>
+    </programme>
+    <programme start="20260812034100 +0800" stop="20260812042500 +0800" channel="2141">
+        <title lang="zh">Skvělý Dr. Pol - výběr XIV (2) / Skvělý Dr. Pol - výběr XIV (2)&lt;Skvělý Dr. Pol - výběr XIV (2)&gt;</title>
+        <desc lang="zh">德罗博塔
+ USA 2026 V tomto 是兽医诊所的特别项目。 远程操作时，请注意不要将其关闭。 Pol vyjíždí k naléhavému případu na farmu, kde se zkomplikoval porod krávy。 兽医控制中心的速度非常快，可快速进行。 I přes pracovní vytížení si Polovi užívají společné chvíle s novým členem rodiny – chlupatým štěnětem Lily.，（系列，文献），美国，2011 / Ach ta drobota
+USA 2026 V tomto speciálním dílu se tým veterinární kliniky stará hlavně o mláďata. Tele bojuje s vážným zápalem plic, drobné kotě má v těle obrovského parazita a u silnice je zachráněno opuštěné štěně. Dr. Pol vyjíždí k naléhavému případu na farmu, kde se zkomplikoval porod krávy. Veterináři kontrolují celé vrhy štěňat a pomáhají hříběti, které má potíže s chůzí. I přes pracovní vytížení si Polovi užívají společné chvíle s novým členem rodiny – chlupatým štěnětem Lily., (seriál, dokument), USA, 2011&lt;Ach ta drobota
+USA 2026 V tomto speciálním dílu se tým veterinární kliniky stará hlavně o mláďata. Tele bojuje s vážným zápalem plic, drobné kotě má v těle obrovského parazita a u silnice je zachráněno opuštěné štěně. Dr. Pol vyjíždí k naléhavému případu na farmu, kde se zkomplikoval porod krávy. Veterináři kontrolují celé vrhy štěňat a pomáhají hříběti, které má potíže s chůzí. I přes pracovní vytížení si Polovi užívají společné chvíle s novým členem rodiny – chlupatým štěnětem Lily., (seriál, dokument), USA, 2011&gt;</desc>
+    </programme>
+    <programme start="20260812042500 +0800" stop="20260812051000 +0800" channel="2141">
+        <title lang="zh">苏博吉·德拉克·兹·巴津 / Souboj draků z bažin&lt;Souboj draků z bažin&gt;</title>
+        <desc lang="zh">美国 2016 年佛罗里达州啤酒和鳄鱼。 Který z nich je ale zuřivějším predátorem？ Porovnáme tyto dva pravěké titány a zjistíme pravdu.,（文档） / USA 2016 Florida je domovem aligátorů, ale i krokodýlů. Který z nich je ale zuřivějším predátorem? Porovnáme tyto dva pravěké titány a zjistíme pravdu., (dokument)&lt;USA 2016 Florida je domovem aligátorů, ale i krokodýlů. Který z nich je ale zuřivějším predátorem? Porovnáme tyto dva pravěké titány a zjistíme pravdu., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260812051000 +0800" stop="20260812055500 +0800" channel="2141">
+        <title lang="zh">兹罗泽尼 v 非洲 I (3) / Zrozeni v Africe I (3)&lt;Zrozeni v Africe I (3)&gt;</title>
+        <desc lang="zh">莱克采洛武
+ Francie 2018 新年快乐。 Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají.,（文档，príroda），Francúzsko，2018 / Lekce lovu
+Francie 2018 Naše chlupaté kuličky už znají své místo v rodině. Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají., (dokument, príroda), Francúzsko, 2018&lt;Lekce lovu
+Francie 2018 Naše chlupaté kuličky už znají své místo v rodině. Teď jsou tito teenageři připraveni čelit novým nebezpečím, která je v savaně čekají., (dokument, príroda), Francúzsko, 2018&gt;</desc>
+    </programme>
+    <programme start="20260812055500 +0800" stop="20260812064000 +0800" channel="2141">
+        <title lang="zh">登瓦拉纳 / Den varana&lt;Den varana&gt;</title>
+        <desc lang="zh">Velká Británie 2024 Být největšim ještěrem na světě je dřina。 Den pro něj začíná ještě před východem slunce。 Konkurence je tak tvrdá，ze si nemůze dovolit zpomalit。 Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca.,（文档） / Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&lt;Velká Británie 2024 Být největšim ještěrem na světě je dřina. Den pro něj začíná ještě před východem slunce. Konkurence je tak tvrdá, že si nemůže dovolit zpomalit. Neustále se zvyšující teplota a zmenšující se loviště ohrožují přežití největšího samce ostrova Rinca., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260812064000 +0800" stop="20260812072500 +0800" channel="2141">
+        <title lang="zh">科西西塔克蒂卡 / Kočičí taktika&lt;Kočičí taktika&gt;</title>
+        <desc lang="zh">USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky.,（文档） / USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky., (dokument)&lt;USA 2019 Kočkovité šelmy si vyvinuly zabijácké techniky, které z nich činí asi nejnebezpečnější zvířecí rodinu na světě. Uvidíme levharty lezoucí po stromech, jaguáry schopné drtit lebky či bleskově rychle hrabající pouštní kočky., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260812072500 +0800" stop="20260812081000 +0800" channel="2141">
+        <title lang="zh">Lvice：爱一个přežiješ / Lvice: Lov a přežiješ&lt;Lvice: Lov a přežiješ&gt;</title>
+        <desc lang="zh">JAR 2019 Seznámíme se se třemi lvicemi obývajícími tři různá loviště。 Každá z nich je vystavena jiným situacím, ale cíl mají společný。 Zabít.，（文档，优先），Južná Afrika，2020 / JAR 2019 Seznámíme se se třemi lvicemi obývajícími tři různá loviště. Každá z nich je vystavena jiným situacím, ale cíl mají společný. Zabít., (dokument, príroda), Južná Afrika, 2020&lt;JAR 2019 Seznámíme se se třemi lvicemi obývajícími tři různá loviště. Každá z nich je vystavena jiným situacím, ale cíl mají společný. Zabít., (dokument, príroda), Južná Afrika, 2020&gt;</desc>
     </programme>
     <channel id="2143">
         <display-name lang="zh">东方卫视超高清</display-name>
