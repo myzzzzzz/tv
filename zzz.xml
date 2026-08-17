@@ -19101,6 +19101,62 @@
         <title lang="zh">今日关注(重播)</title>
         <desc lang="zh"></desc>
     </programme>
+    <programme start="20260819005500 +0800" stop="20260819060000 +0800" channel="19">
+        <title lang="zh">电视剧:蜂鸟</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819060000 +0800" stop="20260819070000 +0800" channel="19">
+        <title lang="zh">系列短剧:外来媳妇本地郎</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819070000 +0800" stop="20260819080500 +0800" channel="19">
+        <title lang="zh">今日关注(重播)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819080500 +0800" stop="20260819170000 +0800" channel="19">
+        <title lang="zh">传奇剧场:铁核桃</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819170000 +0800" stop="20260819171000 +0800" channel="19">
+        <title lang="zh">人生一万年</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819171000 +0800" stop="20260819175000 +0800" channel="19">
+        <title lang="zh">粤韵风华</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819175000 +0800" stop="20260819180000 +0800" channel="19">
+        <title lang="zh">今日财经</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819180000 +0800" stop="20260819190000 +0800" channel="19">
+        <title lang="zh">珠江新闻</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819190000 +0800" stop="20260819200000 +0800" channel="19">
+        <title lang="zh">珠江剧场:许我耀眼20</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819200000 +0800" stop="20260819210000 +0800" channel="19">
+        <title lang="zh">珠江剧场:许我耀眼21</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819210000 +0800" stop="20260819221000 +0800" channel="19">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819221000 +0800" stop="20260819230500 +0800" channel="19">
+        <title lang="zh">王牌剧场:利箭行动24</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819230500 +0800" stop="20260819235500 +0800" channel="19">
+        <title lang="zh">王牌剧场:利箭行动25</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819235500 +0800" stop="20260820004500 +0800" channel="19">
+        <title lang="zh">今日关注(重播)</title>
+        <desc lang="zh"></desc>
+    </programme>
     <channel id="20">
         <display-name lang="zh">广东体育</display-name>
     </channel>
@@ -20491,6 +20547,62 @@
         <title lang="zh">今日关注(重播)</title>
         <desc lang="zh"></desc>
     </programme>
+    <programme start="20260819005500 +0800" stop="20260819060000 +0800" channel="21">
+        <title lang="zh">电视剧:蜂鸟</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819060000 +0800" stop="20260819070000 +0800" channel="21">
+        <title lang="zh">系列短剧:外来媳妇本地郎</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819070000 +0800" stop="20260819080500 +0800" channel="21">
+        <title lang="zh">今日关注(重播)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819080500 +0800" stop="20260819170000 +0800" channel="21">
+        <title lang="zh">传奇剧场:铁核桃</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819170000 +0800" stop="20260819171000 +0800" channel="21">
+        <title lang="zh">人生一万年</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819171000 +0800" stop="20260819175000 +0800" channel="21">
+        <title lang="zh">粤韵风华</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819175000 +0800" stop="20260819180000 +0800" channel="21">
+        <title lang="zh">今日财经</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819180000 +0800" stop="20260819190000 +0800" channel="21">
+        <title lang="zh">珠江新闻</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819190000 +0800" stop="20260819200000 +0800" channel="21">
+        <title lang="zh">珠江剧场:许我耀眼20</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819200000 +0800" stop="20260819210000 +0800" channel="21">
+        <title lang="zh">珠江剧场:许我耀眼21</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819210000 +0800" stop="20260819221000 +0800" channel="21">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819221000 +0800" stop="20260819230500 +0800" channel="21">
+        <title lang="zh">王牌剧场:利箭行动24</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819230500 +0800" stop="20260819235500 +0800" channel="21">
+        <title lang="zh">王牌剧场:利箭行动25</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819235500 +0800" stop="20260820004500 +0800" channel="21">
+        <title lang="zh">今日关注(重播)</title>
+        <desc lang="zh"></desc>
+    </programme>
     <channel id="22">
         <display-name lang="zh">广东新闻</display-name>
     </channel>
@@ -21555,6 +21667,354 @@
         <desc lang="zh"></desc>
     </programme>
     <programme start="20260817230000 +0800" stop="20260817235000 +0800" channel="22">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818000000 +0800" stop="20260818003000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818003000 +0800" stop="20260818010000 +0800" channel="22">
+        <title lang="zh">老广的味道</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818010000 +0800" stop="20260818014500 +0800" channel="22">
+        <title lang="zh">今日一线</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818014500 +0800" stop="20260818020500 +0800" channel="22">
+        <title lang="zh">老广的味道</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818020500 +0800" stop="20260818054000 +0800" channel="22">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818054000 +0800" stop="20260818060000 +0800" channel="22">
+        <title lang="zh">社会纵横</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818060000 +0800" stop="20260818063000 +0800" channel="22">
+        <title lang="zh">直播广东</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818063000 +0800" stop="20260818070100 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818070100 +0800" stop="20260818080000 +0800" channel="22">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818080000 +0800" stop="20260818083000 +0800" channel="22">
+        <title lang="zh">广东新闻联播</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818083000 +0800" stop="20260818090000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818090000 +0800" stop="20260818093000 +0800" channel="22">
+        <title lang="zh">直播广东</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818093000 +0800" stop="20260818100000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818100000 +0800" stop="20260818103000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818103000 +0800" stop="20260818110000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818110000 +0800" stop="20260818113000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818113000 +0800" stop="20260818120000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818120000 +0800" stop="20260818123000 +0800" channel="22">
+        <title lang="zh">午间30分</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818123000 +0800" stop="20260818130000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818130000 +0800" stop="20260818133000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818133000 +0800" stop="20260818140000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818140000 +0800" stop="20260818144000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818144000 +0800" stop="20260818150000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818150000 +0800" stop="20260818153000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818153000 +0800" stop="20260818160000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818160000 +0800" stop="20260818163000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818163000 +0800" stop="20260818170000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818170000 +0800" stop="20260818173000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818173000 +0800" stop="20260818180000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818180000 +0800" stop="20260818183000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818183000 +0800" stop="20260818190000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818190000 +0800" stop="20260818192500 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818192500 +0800" stop="20260818193000 +0800" channel="22">
+        <title lang="zh">天气预报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818193000 +0800" stop="20260818200000 +0800" channel="22">
+        <title lang="zh">广东新闻联播</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818200000 +0800" stop="20260818203000 +0800" channel="22">
+        <title lang="zh">直播广东</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818203000 +0800" stop="20260818205000 +0800" channel="22">
+        <title lang="zh">老广的味道</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818205000 +0800" stop="20260818210000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818210000 +0800" stop="20260818211000 +0800" channel="22">
+        <title lang="zh">社会纵横</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818211000 +0800" stop="20260818213000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818213000 +0800" stop="20260818220500 +0800" channel="22">
+        <title lang="zh">今日一线</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818220500 +0800" stop="20260818222000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818222000 +0800" stop="20260818223000 +0800" channel="22">
+        <title lang="zh">社会纵横</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818223000 +0800" stop="20260818230000 +0800" channel="22">
+        <title lang="zh">新闻夜线</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260818230000 +0800" stop="20260819000000 +0800" channel="22">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819000000 +0800" stop="20260819003000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819003000 +0800" stop="20260819010000 +0800" channel="22">
+        <title lang="zh">老广的味道</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819010000 +0800" stop="20260819014500 +0800" channel="22">
+        <title lang="zh">今日一线</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819014500 +0800" stop="20260819020500 +0800" channel="22">
+        <title lang="zh">老广的味道</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819020500 +0800" stop="20260819054000 +0800" channel="22">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819054000 +0800" stop="20260819060000 +0800" channel="22">
+        <title lang="zh">社会纵横</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819060000 +0800" stop="20260819063000 +0800" channel="22">
+        <title lang="zh">直播广东</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819063000 +0800" stop="20260819070100 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819070100 +0800" stop="20260819080000 +0800" channel="22">
+        <title lang="zh">今日关注</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819080000 +0800" stop="20260819083000 +0800" channel="22">
+        <title lang="zh">广东新闻联播</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819083000 +0800" stop="20260819090000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819090000 +0800" stop="20260819093000 +0800" channel="22">
+        <title lang="zh">直播广东</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819093000 +0800" stop="20260819100000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819100000 +0800" stop="20260819103000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819103000 +0800" stop="20260819110000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819110000 +0800" stop="20260819113000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819113000 +0800" stop="20260819120000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819120000 +0800" stop="20260819123000 +0800" channel="22">
+        <title lang="zh">午间30分</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819123000 +0800" stop="20260819130000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819130000 +0800" stop="20260819133000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819133000 +0800" stop="20260819140000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819140000 +0800" stop="20260819144000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819144000 +0800" stop="20260819150000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819150000 +0800" stop="20260819153000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819153000 +0800" stop="20260819160000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819160000 +0800" stop="20260819163000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819163000 +0800" stop="20260819170000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819170000 +0800" stop="20260819173000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819173000 +0800" stop="20260819180000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819180000 +0800" stop="20260819183000 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819183000 +0800" stop="20260819190000 +0800" channel="22">
+        <title lang="zh">专题</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819190000 +0800" stop="20260819192500 +0800" channel="22">
+        <title lang="zh">正点播报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819192500 +0800" stop="20260819193000 +0800" channel="22">
+        <title lang="zh">天气预报</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819193000 +0800" stop="20260819200000 +0800" channel="22">
+        <title lang="zh">广东新闻联播</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819200000 +0800" stop="20260819203000 +0800" channel="22">
+        <title lang="zh">直播广东</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819203000 +0800" stop="20260819210000 +0800" channel="22">
+        <title lang="zh">老广的味道</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819210000 +0800" stop="20260819211000 +0800" channel="22">
+        <title lang="zh">社会纵横</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819211000 +0800" stop="20260819213000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819213000 +0800" stop="20260819220500 +0800" channel="22">
+        <title lang="zh">今日一线</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819220500 +0800" stop="20260819222000 +0800" channel="22">
+        <title lang="zh">广粤甄选</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819222000 +0800" stop="20260819223000 +0800" channel="22">
+        <title lang="zh">社会纵横</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819223000 +0800" stop="20260819230000 +0800" channel="22">
+        <title lang="zh">新闻夜线</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819230000 +0800" stop="20260820000000 +0800" channel="22">
         <title lang="zh">今日关注</title>
         <desc lang="zh"></desc>
     </programme>
@@ -22827,6 +23287,42 @@
         <title lang="zh">剧无霸经典剧场:军刺(18-20)</title>
         <desc lang="zh"></desc>
     </programme>
+    <programme start="20260819002000 +0800" stop="20260819011000 +0800" channel="25">
+        <title lang="zh">午夜剧场</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819061000 +0800" stop="20260819080500 +0800" channel="25">
+        <title lang="zh">醒晨剧场一:嫂子嫂子(20-22)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819080500 +0800" stop="20260819104000 +0800" channel="25">
+        <title lang="zh">醒晨剧场二:危机迷雾(20-22)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819104000 +0800" stop="20260819155000 +0800" channel="25">
+        <title lang="zh">午间大强档:追风行动(25-29)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819155000 +0800" stop="20260819183000 +0800" channel="25">
+        <title lang="zh">剧无霸前战剧场:尖锋之烈焰青春(45-47)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819183000 +0800" stop="20260819185000 +0800" channel="25">
+        <title lang="zh">有请大医生</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819185000 +0800" stop="20260819223000 +0800" channel="25">
+        <title lang="zh">剧无霸剧场:战火青春(35-39)</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819223000 +0800" stop="20260819224500 +0800" channel="25">
+        <title lang="zh">广东电影报道+有请大医生</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819224500 +0800" stop="20260820002000 +0800" channel="25">
+        <title lang="zh">剧无霸经典剧场:军刺(21-23)</title>
+        <desc lang="zh"></desc>
+    </programme>
     <channel id="26">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
@@ -23422,6 +23918,30 @@
         <desc lang="zh"></desc>
     </programme>
     <programme start="20260818191000 +0800" stop="20260819000000 +0800" channel="27">
+        <title lang="zh">《23号牛乃唐》</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819000000 +0800" stop="20260819005000 +0800" channel="27">
+        <title lang="zh">午夜剧场</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819060000 +0800" stop="20260819080000 +0800" channel="27">
+        <title lang="zh">早间卡通剧场《航海少年团》《海底小纵队》</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819080000 +0800" stop="20260819170000 +0800" channel="27">
+        <title lang="zh">《天才小鲁班》</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819170000 +0800" stop="20260819190000 +0800" channel="27">
+        <title lang="zh">《巴啦啦小魔仙之梦幻旋律》</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819190000 +0800" stop="20260819191000 +0800" channel="27">
+        <title lang="zh">《南方小记者》</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819191000 +0800" stop="20260820000000 +0800" channel="27">
         <title lang="zh">《23号牛乃唐》</title>
         <desc lang="zh"></desc>
     </programme>
@@ -26770,6 +27290,74 @@
         <desc lang="zh"></desc>
     </programme>
     <programme start="20260818225000 +0800" stop="20260818234000 +0800" channel="33">
+        <title lang="zh">深夜剧场</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819032500 +0800" stop="20260819063000 +0800" channel="33">
+        <title lang="zh">4K深夜剧场</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819063000 +0800" stop="20260819070000 +0800" channel="33">
+        <title lang="zh">综艺荟</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819070000 +0800" stop="20260819080000 +0800" channel="33">
+        <title lang="zh">大美南粤</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819080000 +0800" stop="20260819113000 +0800" channel="33">
+        <title lang="zh">晨早剧场</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819113000 +0800" stop="20260819121000 +0800" channel="33">
+        <title lang="zh">律师有嘢讲</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819121000 +0800" stop="20260819124500 +0800" channel="33">
+        <title lang="zh">你会怎么做</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819124500 +0800" stop="20260819130500 +0800" channel="33">
+        <title lang="zh">乐享生活荟</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819130500 +0800" stop="20260819134000 +0800" channel="33">
+        <title lang="zh">举案说法</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819134000 +0800" stop="20260819170000 +0800" channel="33">
+        <title lang="zh">下午茶剧场</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819170000 +0800" stop="20260819180000 +0800" channel="33">
+        <title lang="zh">大美南粤</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819180000 +0800" stop="20260819182000 +0800" channel="33">
+        <title lang="zh">新鲜驾到</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819182000 +0800" stop="20260819184000 +0800" channel="33">
+        <title lang="zh">一起旅游吧</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819184000 +0800" stop="20260819190000 +0800" channel="33">
+        <title lang="zh">最紧要健康</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819190000 +0800" stop="20260819212000 +0800" channel="33">
+        <title lang="zh">4K经典剧场</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819212000 +0800" stop="20260819220000 +0800" channel="33">
+        <title lang="zh">律师有嘢讲</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819220000 +0800" stop="20260819225000 +0800" channel="33">
+        <title lang="zh">纪录片</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260819225000 +0800" stop="20260819234000 +0800" channel="33">
         <title lang="zh">深夜剧场</title>
         <desc lang="zh"></desc>
     </programme>
@@ -108226,6 +108814,198 @@
         <title lang="zh">有線新聞</title>
         <desc lang="zh">有線新聞</desc>
     </programme>
+    <programme start="20260818000000 +0800" stop="20260818003000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818003000 +0800" stop="20260818010000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818010000 +0800" stop="20260818013000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818013000 +0800" stop="20260818020000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818020000 +0800" stop="20260818023000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818023000 +0800" stop="20260818030000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818030000 +0800" stop="20260818033000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818033000 +0800" stop="20260818040000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818040000 +0800" stop="20260818043000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818043000 +0800" stop="20260818050000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818050000 +0800" stop="20260818053000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818053000 +0800" stop="20260818060000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818060000 +0800" stop="20260818063000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818063000 +0800" stop="20260818070000 +0800" channel="125">
+        <title lang="zh">一線搜查</title>
+        <desc lang="zh">一線搜查</desc>
+    </programme>
+    <programme start="20260818070000 +0800" stop="20260818073000 +0800" channel="125">
+        <title lang="zh">Cable 早晨</title>
+        <desc lang="zh">Cable 早晨</desc>
+    </programme>
+    <programme start="20260818073000 +0800" stop="20260818080000 +0800" channel="125">
+        <title lang="zh">Cable 早晨</title>
+        <desc lang="zh">Cable 早晨</desc>
+    </programme>
+    <programme start="20260818080000 +0800" stop="20260818083000 +0800" channel="125">
+        <title lang="zh">Cable 早晨</title>
+        <desc lang="zh">Cable 早晨</desc>
+    </programme>
+    <programme start="20260818083000 +0800" stop="20260818090000 +0800" channel="125">
+        <title lang="zh">Cable 早晨</title>
+        <desc lang="zh">Cable 早晨</desc>
+    </programme>
+    <programme start="20260818090000 +0800" stop="20260818100000 +0800" channel="125">
+        <title lang="zh">股市直播室</title>
+        <desc lang="zh">股市直播室</desc>
+    </programme>
+    <programme start="20260818100000 +0800" stop="20260818103000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818103000 +0800" stop="20260818110000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818110000 +0800" stop="20260818113000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818113000 +0800" stop="20260818120000 +0800" channel="125">
+        <title lang="zh">一線搜查</title>
+        <desc lang="zh">一線搜查</desc>
+    </programme>
+    <programme start="20260818120000 +0800" stop="20260818123000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818123000 +0800" stop="20260818130000 +0800" channel="125">
+        <title lang="zh">午間新聞</title>
+        <desc lang="zh">午間新聞</desc>
+    </programme>
+    <programme start="20260818130000 +0800" stop="20260818133000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818133000 +0800" stop="20260818140000 +0800" channel="125">
+        <title lang="zh">家國天下</title>
+        <desc lang="zh">家國天下</desc>
+    </programme>
+    <programme start="20260818140000 +0800" stop="20260818143000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818143000 +0800" stop="20260818150000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818150000 +0800" stop="20260818153000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818153000 +0800" stop="20260818160000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818160000 +0800" stop="20260818163000 +0800" channel="125">
+        <title lang="zh">股市直播室</title>
+        <desc lang="zh">股市直播室</desc>
+    </programme>
+    <programme start="20260818163000 +0800" stop="20260818170000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818170000 +0800" stop="20260818173000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818173000 +0800" stop="20260818180000 +0800" channel="125">
+        <title lang="zh">股市直播室</title>
+        <desc lang="zh">股市直播室</desc>
+    </programme>
+    <programme start="20260818180000 +0800" stop="20260818183000 +0800" channel="125">
+        <title lang="zh">手語新聞報道</title>
+        <desc lang="zh">手語新聞報道</desc>
+    </programme>
+    <programme start="20260818183000 +0800" stop="20260818185000 +0800" channel="125">
+        <title lang="zh">六點半新聞報道</title>
+        <desc lang="zh">六點半新聞報道</desc>
+    </programme>
+    <programme start="20260818185000 +0800" stop="20260818190000 +0800" channel="125">
+        <title lang="zh">焦點財經</title>
+        <desc lang="zh">焦點財經</desc>
+    </programme>
+    <programme start="20260818190000 +0800" stop="20260818195000 +0800" channel="125">
+        <title lang="zh">7點直播室</title>
+        <desc lang="zh">7點直播室</desc>
+    </programme>
+    <programme start="20260818195000 +0800" stop="20260818200000 +0800" channel="125">
+        <title lang="zh">28Hse搵樓App特約 : 每日樓市</title>
+        <desc lang="zh">28Hse搵樓App特約 : 每日樓市</desc>
+    </programme>
+    <programme start="20260818200000 +0800" stop="20260818203000 +0800" channel="125">
+        <title lang="zh">國際最前線</title>
+        <desc lang="zh">國際最前線</desc>
+    </programme>
+    <programme start="20260818203000 +0800" stop="20260818210000 +0800" channel="125">
+        <title lang="zh">一線搜查</title>
+        <desc lang="zh">一線搜查</desc>
+    </programme>
+    <programme start="20260818210000 +0800" stop="20260818214500 +0800" channel="125">
+        <title lang="zh">晚間直播室</title>
+        <desc lang="zh">晚間直播室</desc>
+    </programme>
+    <programme start="20260818214500 +0800" stop="20260818220000 +0800" channel="125">
+        <title lang="zh">焦點財經及28Hse搵樓App特約:每日樓市</title>
+        <desc lang="zh">焦點財經及28Hse搵樓App特約:每日樓市</desc>
+    </programme>
+    <programme start="20260818220000 +0800" stop="20260818223000 +0800" channel="125">
+        <title lang="zh">智‧創未來</title>
+        <desc lang="zh">智‧創未來</desc>
+    </programme>
+    <programme start="20260818223000 +0800" stop="20260818230000 +0800" channel="125">
+        <title lang="zh">一線搜查</title>
+        <desc lang="zh">一線搜查</desc>
+    </programme>
+    <programme start="20260818230000 +0800" stop="20260818233000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
+    <programme start="20260818233000 +0800" stop="20260819000000 +0800" channel="125">
+        <title lang="zh">有線新聞</title>
+        <desc lang="zh">有線新聞</desc>
+    </programme>
     <channel id="126">
         <display-name lang="zh">HOY 國際財經台</display-name>
     </channel>
@@ -133524,6 +134304,214 @@
         <title lang="zh">Now深宵新闻[直播]</title>
         <desc lang="zh">now late news</desc>
     </programme>
+    <programme start="20260819000000 +0800" stop="20260819003000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819003000 +0800" stop="20260819010000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819010000 +0800" stop="20260819013000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819013000 +0800" stop="20260819020000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819020000 +0800" stop="20260819023000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819023000 +0800" stop="20260819030000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819030000 +0800" stop="20260819033000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819033000 +0800" stop="20260819040000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819040000 +0800" stop="20260819043000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819043000 +0800" stop="20260819050000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819050000 +0800" stop="20260819053000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819053000 +0800" stop="20260819060000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819060000 +0800" stop="20260819063000 +0800" channel="376">
+        <title lang="zh">Now早晨 -20260819 第一节[直播]</title>
+        <desc lang="zh">morning now20260819 part 1</desc>
+    </programme>
+    <programme start="20260819063000 +0800" stop="20260819070000 +0800" channel="376">
+        <title lang="zh">Now早晨 -20260819 第一节</title>
+        <desc lang="zh">morning now20260819 part 1</desc>
+    </programme>
+    <programme start="20260819070000 +0800" stop="20260819073000 +0800" channel="376">
+        <title lang="zh">Now早晨 -20260819 第二节[直播]</title>
+        <desc lang="zh">morning now20260819 part 2</desc>
+    </programme>
+    <programme start="20260819073000 +0800" stop="20260819080000 +0800" channel="376">
+        <title lang="zh">Now早晨 -20260819 第二节</title>
+        <desc lang="zh">morning now20260819 part 2</desc>
+    </programme>
+    <programme start="20260819080000 +0800" stop="20260819083000 +0800" channel="376">
+        <title lang="zh">Now早晨 -20260819 第三节[直播]</title>
+        <desc lang="zh">morning now20260819 part 3</desc>
+    </programme>
+    <programme start="20260819083000 +0800" stop="20260819090000 +0800" channel="376">
+        <title lang="zh">Now早晨 -20260819 第三节</title>
+        <desc lang="zh">morning now20260819 part 3</desc>
+    </programme>
+    <programme start="20260819090000 +0800" stop="20260819093000 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819093000 +0800" stop="20260819120000 +0800" channel="376">
+        <title lang="zh">时事全方位 -20260819[直播]</title>
+        <desc lang="zh">news magazine20260819</desc>
+    </programme>
+    <programme start="20260819120000 +0800" stop="20260819123000 +0800" channel="376">
+        <title lang="zh">Now午间新闻[直播]</title>
+        <desc lang="zh">now noon news</desc>
+    </programme>
+    <programme start="20260819123000 +0800" stop="20260819130000 +0800" channel="376">
+        <title lang="zh">Now午间新闻</title>
+        <desc lang="zh">now noon news</desc>
+    </programme>
+    <programme start="20260819130000 +0800" stop="20260819133000 +0800" channel="376">
+        <title lang="zh">Now午间新闻[直播]</title>
+        <desc lang="zh">now noon news</desc>
+    </programme>
+    <programme start="20260819133000 +0800" stop="20260819140000 +0800" channel="376">
+        <title lang="zh">Now午间新闻</title>
+        <desc lang="zh">now noon news</desc>
+    </programme>
+    <programme start="20260819140000 +0800" stop="20260819142500 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819142500 +0800" stop="20260819143000 +0800" channel="376">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819143000 +0800" stop="20260819145500 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819145500 +0800" stop="20260819150000 +0800" channel="376">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819150000 +0800" stop="20260819153000 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819153000 +0800" stop="20260819160000 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819160000 +0800" stop="20260819162000 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819162000 +0800" stop="20260819163000 +0800" channel="376">
+        <title lang="zh">国际两岸评论</title>
+        <desc lang="zh">international cross-strait critics</desc>
+    </programme>
+    <programme start="20260819163000 +0800" stop="20260819165000 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819165000 +0800" stop="20260819170000 +0800" channel="376">
+        <title lang="zh">国际两岸评论</title>
+        <desc lang="zh">international cross-strait critics</desc>
+    </programme>
+    <programme start="20260819170000 +0800" stop="20260819172500 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819172500 +0800" stop="20260819173000 +0800" channel="376">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819173000 +0800" stop="20260819175500 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819175500 +0800" stop="20260819180000 +0800" channel="376">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819180000 +0800" stop="20260819183000 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819183000 +0800" stop="20260819190000 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819190000 +0800" stop="20260819192500 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819192500 +0800" stop="20260819193000 +0800" channel="376">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819193000 +0800" stop="20260819195500 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819195500 +0800" stop="20260819200000 +0800" channel="376">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819200000 +0800" stop="20260819203000 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819203000 +0800" stop="20260819210000 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819210000 +0800" stop="20260819213000 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819213000 +0800" stop="20260819220000 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819220000 +0800" stop="20260819223000 +0800" channel="376">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819223000 +0800" stop="20260819230000 +0800" channel="376">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819230000 +0800" stop="20260819233000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻[直播]</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
+    <programme start="20260819233000 +0800" stop="20260820000000 +0800" channel="376">
+        <title lang="zh">Now深宵新闻[直播]</title>
+        <desc lang="zh">now late news</desc>
+    </programme>
     <channel id="377">
         <display-name lang="zh">Now 財經台</display-name>
     </channel>
@@ -134714,6 +135702,210 @@
     <programme start="20260818000000 +0800" stop="20260818010000 +0800" channel="377">
         <title lang="zh">港股今日睇 -20260817</title>
         <desc lang="zh">market today20260817</desc>
+    </programme>
+    <programme start="20260819000000 +0800" stop="20260819010000 +0800" channel="377">
+        <title lang="zh">港股今日睇 -20260818</title>
+        <desc lang="zh">market today20260818</desc>
+    </programme>
+    <programme start="20260819010000 +0800" stop="20260819012100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819012100 +0800" stop="20260819013000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819013000 +0800" stop="20260819015100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819015100 +0800" stop="20260819020000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819020000 +0800" stop="20260819022100 +0800" channel="377">
+        <title lang="zh">楼市每日睇 -20260818</title>
+        <desc lang="zh">property daily20260818</desc>
+    </programme>
+    <programme start="20260819022100 +0800" stop="20260819023000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819023000 +0800" stop="20260819030000 +0800" channel="377">
+        <title lang="zh">环球金融快线 -20260818</title>
+        <desc lang="zh">global market express20260818</desc>
+    </programme>
+    <programme start="20260819030000 +0800" stop="20260819032100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819032100 +0800" stop="20260819033000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819033000 +0800" stop="20260819035100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819035100 +0800" stop="20260819040000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819040000 +0800" stop="20260819042100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819042100 +0800" stop="20260819043000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819043000 +0800" stop="20260819045100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819045100 +0800" stop="20260819050000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819050000 +0800" stop="20260819052100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819052100 +0800" stop="20260819053000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819053000 +0800" stop="20260819055100 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819055100 +0800" stop="20260819060000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819060000 +0800" stop="20260819063000 +0800" channel="377">
+        <title lang="zh">Now早晨 -20260819 第一节[直播]</title>
+        <desc lang="zh">morning now20260819 part 1</desc>
+    </programme>
+    <programme start="20260819063000 +0800" stop="20260819070000 +0800" channel="377">
+        <title lang="zh">Now早晨 -20260819 第一节</title>
+        <desc lang="zh">morning now20260819 part 1</desc>
+    </programme>
+    <programme start="20260819070000 +0800" stop="20260819073000 +0800" channel="377">
+        <title lang="zh">Now早晨 -20260819 第二节[直播]</title>
+        <desc lang="zh">morning now20260819 part 2</desc>
+    </programme>
+    <programme start="20260819073000 +0800" stop="20260819080000 +0800" channel="377">
+        <title lang="zh">Now早晨 -20260819 第二节</title>
+        <desc lang="zh">morning now20260819 part 2</desc>
+    </programme>
+    <programme start="20260819080000 +0800" stop="20260819083000 +0800" channel="377">
+        <title lang="zh">Now早晨 -20260819 第三节[直播]</title>
+        <desc lang="zh">morning now20260819 part 3</desc>
+    </programme>
+    <programme start="20260819083000 +0800" stop="20260819090000 +0800" channel="377">
+        <title lang="zh">Now早晨 -20260819 第三节</title>
+        <desc lang="zh">morning now20260819 part 3</desc>
+    </programme>
+    <programme start="20260819090000 +0800" stop="20260819093000 +0800" channel="377">
+        <title lang="zh">牛熊先机[直播]</title>
+        <desc lang="zh">pre-opening</desc>
+    </programme>
+    <programme start="20260819093000 +0800" stop="20260819110000 +0800" channel="377">
+        <title lang="zh">交易时段 -20260819 第一节[直播]</title>
+        <desc lang="zh">trading hour20260819 part 1</desc>
+    </programme>
+    <programme start="20260819110000 +0800" stop="20260819120000 +0800" channel="377">
+        <title lang="zh">交易时段 -20260819 第二节[直播]</title>
+        <desc lang="zh">trading hour20260819 part 2</desc>
+    </programme>
+    <programme start="20260819120000 +0800" stop="20260819122100 +0800" channel="377">
+        <title lang="zh">午间股评 -20260819[直播]</title>
+        <desc lang="zh">midday market wrap20260819</desc>
+    </programme>
+    <programme start="20260819122100 +0800" stop="20260819123000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819123000 +0800" stop="20260819130000 +0800" channel="377">
+        <title lang="zh">Now午间新闻</title>
+        <desc lang="zh">now noon news</desc>
+    </programme>
+    <programme start="20260819130000 +0800" stop="20260819150000 +0800" channel="377">
+        <title lang="zh">交易时段 -20260819 第三节[直播]</title>
+        <desc lang="zh">trading hour20260819 part 3</desc>
+    </programme>
+    <programme start="20260819150000 +0800" stop="20260819160000 +0800" channel="377">
+        <title lang="zh">交易时段 -20260819 第四节[直播]</title>
+        <desc lang="zh">trading hour20260819 part 4</desc>
+    </programme>
+    <programme start="20260819160000 +0800" stop="20260819165100 +0800" channel="377">
+        <title lang="zh">收市检讨 -20260819[直播]</title>
+        <desc lang="zh">market wrap20260819</desc>
+    </programme>
+    <programme start="20260819165100 +0800" stop="20260819170000 +0800" channel="377">
+        <title lang="zh">理财有方</title>
+        <desc lang="zh">wealth management</desc>
+    </programme>
+    <programme start="20260819170000 +0800" stop="20260819172500 +0800" channel="377">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819172500 +0800" stop="20260819173000 +0800" channel="377">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819173000 +0800" stop="20260819175500 +0800" channel="377">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819175500 +0800" stop="20260819180000 +0800" channel="377">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819180000 +0800" stop="20260819183000 +0800" channel="377">
+        <title lang="zh">Now新闻报道[直播]</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819183000 +0800" stop="20260819190000 +0800" channel="377">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819190000 +0800" stop="20260819193000 +0800" channel="377">
+        <title lang="zh">Now财经新闻[直播]</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819193000 +0800" stop="20260819195500 +0800" channel="377">
+        <title lang="zh">Now新闻报道</title>
+        <desc lang="zh">now news</desc>
+    </programme>
+    <programme start="20260819195500 +0800" stop="20260819200000 +0800" channel="377">
+        <title lang="zh">世味天下</title>
+        <desc lang="zh">global newspapers</desc>
+    </programme>
+    <programme start="20260819200000 +0800" stop="20260819210000 +0800" channel="377">
+        <title lang="zh">Now财经新闻</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819210000 +0800" stop="20260819213000 +0800" channel="377">
+        <title lang="zh">楼市每日睇 -20260819</title>
+        <desc lang="zh">property daily20260819</desc>
+    </programme>
+    <programme start="20260819213000 +0800" stop="20260819223000 +0800" channel="377">
+        <title lang="zh">港股今日睇 -20260819</title>
+        <desc lang="zh">market today20260819</desc>
+    </programme>
+    <programme start="20260819223000 +0800" stop="20260819230000 +0800" channel="377">
+        <title lang="zh">环球金融快线 -20260819[直播]</title>
+        <desc lang="zh">global market express20260819</desc>
+    </programme>
+    <programme start="20260819230000 +0800" stop="20260819233000 +0800" channel="377">
+        <title lang="zh">Now财经新闻[直播]</title>
+        <desc lang="zh">now business news</desc>
+    </programme>
+    <programme start="20260819233000 +0800" stop="20260820000000 +0800" channel="377">
+        <title lang="zh">交易时段精华 -20260819</title>
+        <desc lang="zh">trading hour highlight20260819</desc>
     </programme>
     <programme start="20260819000000 +0800" stop="20260819010000 +0800" channel="377">
         <title lang="zh">港股今日睇 -20260818</title>
@@ -141311,6 +142503,218 @@
     <programme start="20260819052900 +0800" stop="20260819060000 +0800" channel="395">
         <title lang="zh">问问Master Joe #128 [粤]</title>
         <desc lang="zh">鸡蛋一跌就碎，但其实坚强得很，不妨试试一手握碎它！母鸡孵蛋时亦不会被压破。四只鸡蛋「团结」的话，即使被数十磅的书压着，仍然丝毫不损！原来秘密在于鸡蛋的圆弧形外壳上，为甚么它可以拥有巨大的承托力呢？因此，不少大桥或建筑物都采用了拱形的设计。陈绍鹏老师用生、熟鸡蛋直立旋转的实验，详细说明鸡蛋壳内的结构，并讲述小鸡如何打破坚硬的蛋壳破壳而出。</desc>
+    </programme>
+    <programme start="20260819060000 +0800" stop="20260819062500 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819062500 +0800" stop="20260819065100 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819065100 +0800" stop="20260819065700 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819065700 +0800" stop="20260819072400 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819072400 +0800" stop="20260819074700 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819074700 +0800" stop="20260819080400 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819080400 +0800" stop="20260819082900 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819082900 +0800" stop="20260819085500 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819085500 +0800" stop="20260819090100 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝��。</desc>
+    </programme>
+    <programme start="20260819090100 +0800" stop="20260819092800 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819092800 +0800" stop="20260819095100 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819095100 +0800" stop="20260819100800 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819100800 +0800" stop="20260819103300 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819103300 +0800" stop="20260819105900 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819105900 +0800" stop="20260819110500 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819110500 +0800" stop="20260819113200 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819113200 +0800" stop="20260819115500 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819115500 +0800" stop="20260819121200 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819121200 +0800" stop="20260819123700 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819123700 +0800" stop="20260819130300 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819130300 +0800" stop="20260819130900 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819130900 +0800" stop="20260819133600 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819133600 +0800" stop="20260819135900 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819135900 +0800" stop="20260819141600 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819141600 +0800" stop="20260819144100 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819144100 +0800" stop="20260819150700 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819150700 +0800" stop="20260819151300 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819151300 +0800" stop="20260819154000 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819154000 +0800" stop="20260819160300 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819160300 +0800" stop="20260819162000 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819162000 +0800" stop="20260819164500 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819164500 +0800" stop="20260819171100 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819171100 +0800" stop="20260819171700 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819171700 +0800" stop="20260819174400 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819174400 +0800" stop="20260819180700 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819180700 +0800" stop="20260819182400 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819182400 +0800" stop="20260819184900 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819184900 +0800" stop="20260819191500 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819191500 +0800" stop="20260819192100 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819192100 +0800" stop="20260819194800 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819194800 +0800" stop="20260819201100 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819201100 +0800" stop="20260819202800 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819202800 +0800" stop="20260819205300 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819205300 +0800" stop="20260819211900 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819211900 +0800" stop="20260819212500 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819212500 +0800" stop="20260819215200 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819215200 +0800" stop="20260819221500 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
+    </programme>
+    <programme start="20260819221500 +0800" stop="20260819223200 +0800" channel="395">
+        <title lang="zh">音乐公主爱美莉 #73 [普]</title>
+        <desc lang="zh">讲述了来自音乐王国的公主爱美莉，在神奇的乐园岛上，与六位性格迥异的公主一起快乐成长的故事。她们经历了各种挑战，用神奇的音乐力量克服重重难关，建立深厚的友谊。</desc>
+    </programme>
+    <programme start="20260819223200 +0800" stop="20260819225700 +0800" channel="395">
+        <title lang="zh">Hands Up #942 [粤]</title>
+        <desc lang="zh">水耕农场负责人再次来到「Kids’ Notes」，也准备了多款采用水耕种植的番茄，让在场小朋友一起试食，大家更踊跃分享食后感。嘉宾透露以水耕方法种番茄存在不少困难，除了需时十个月成长，还要细心注意温度、阳光等。他建议孩子可和家人一同协力在家试种番茄，期间有甚么要留意？嘉宾还分享拣选优质番茄的要点，并提到不宜把番茄放进雪柜，有何特别原因？此外，嘉宾还会展示可在家种植水耕生菜的方法。</desc>
+    </programme>
+    <programme start="20260819225700 +0800" stop="20260819232300 +0800" channel="395">
+        <title lang="zh">樱桃小丸子 #1031 [粤/日]</title>
+        <desc lang="zh">永泽担心区内的火堆会造成火灾，于是提议组织巡逻队，查察区内有否可疑火种，小丸子亦被拖下水。天寒地冻，小丸子跟爸爸和爷爷留在家中，随着电视机故障，两人谈起小时候关于看电影的趣事。</desc>
+    </programme>
+    <programme start="20260819232300 +0800" stop="20260819232900 +0800" channel="395">
+        <title lang="zh">成语动画廊 #155 [粤]</title>
+        <desc lang="zh">《成语动画廊》以动画手法解说汉语成语的教育片，通过趣味浓厚的动画，让大家分享中国文化的独有宝藏。</desc>
+    </programme>
+    <programme start="20260819232900 +0800" stop="20260819235600 +0800" channel="395">
+        <title lang="zh">问问Master Joe #129 [粤]</title>
+        <desc lang="zh">如何在不接触万字夹的情况下，将玻璃瓶中的万字夹拿出来？指南针为甚么恒常指向南方？为什么磁浮列车可以浮在轨道上？其实基本原理与我们常见的磁铁有关。磁铁分为南、北两极，同极相拒，异极相吸，而磁浮列车则是利用电磁铁的原理，令列车和路轨产生强大的、同极相斥的磁力，从而令列车浮在路轨上。然后，再改变电流的方向，以改变磁场的南北极方向，令磁浮列车前进或者后退。</desc>
+    </programme>
+    <programme start="20260819235600 +0800" stop="20260820001900 +0800" channel="395">
+        <title lang="zh">多啦A梦 #528 [粤/日]</title>
+        <desc lang="zh">大雄头头碰着黑，多啦A梦借他「转运针」，可以令运气恢复平衡。爸爸借了「令人讨厌钱的糖」，大雄借了「令人想派钱的糖」，千方百计想互相餵食。胖虎抢走了「元旦日出套装」，结果自讨苦吃。</desc>
     </programme>
     <channel id="410">
         <display-name lang="zh">东莞新闻综合</display-name>
@@ -235955,6 +237359,90 @@
         <title lang="zh">颠沛流离亚马逊 #2</title>
         <desc lang="zh">如同亚马逊的森林一样丰富,寻找爱情和养家一样是个挑战,交配策略也跟动物一样各适其适.</desc>
     </programme>
+    <programme start="20260819060000 +0800" stop="20260819062500 +0800" channel="1931">
+        <title lang="zh">王者争霸 #6</title>
+        <desc lang="zh">加拿大的夏季短捉,时间紧迫- 任何时候都是战斗的好时机.宏大的北方为野牛,秃鹰和北极熊提供了动物王国中激战的战场.</desc>
+    </programme>
+    <programme start="20260819062500 +0800" stop="20260819072000 +0800" channel="1931">
+        <title lang="zh">颠沛流离亚马逊 #1</title>
+        <desc lang="zh">亚马逊热带雨林中,拥有致命力量的掠食者正在捕猎.完美的进化 - 谁将获得胜利?</desc>
+    </programme>
+    <programme start="20260819072000 +0800" stop="20260819081500 +0800" channel="1931">
+        <title lang="zh">颠沛流离亚马逊 #2</title>
+        <desc lang="zh">如同亚马逊的森林一样丰富,寻找爱情和养家一样是个挑战,交配策略也跟动物一样各适其适.</desc>
+    </programme>
+    <programme start="20260819081500 +0800" stop="20260819091000 +0800" channel="1931">
+        <title lang="zh">饥饿游戏:阿拉斯加的大熊挑战 #1</title>
+        <desc lang="zh">七只饥肠辘辘的大熊刚从冬眠中甦醒过来,挑战随即展开!一起见证新手妈妈如何与狼群作战,身型细小的跺跺如何争夺地盘和金松少女的爱,并旁观老练的伯尼如何与出其不己的少年卡萨诺瓦搏斗.</desc>
+    </programme>
+    <programme start="20260819091000 +0800" stop="20260819100500 +0800" channel="1931">
+        <title lang="zh">狝猴岛 #3 [英/普]</title>
+        <desc lang="zh">当街头部族发现深山部族侵入他们的领地后,争战一触即发.目击马特诺尔糟糕的育儿技巧,并见证具领袖野心的阿吉特如何展开行动.热浪来袭,迫使大家在森林中共享资源,缓和冲突气氛.</desc>
+    </programme>
+    <programme start="20260819100500 +0800" stop="20260819110000 +0800" channel="1931">
+        <title lang="zh">野火劫后 [英/普]</title>
+        <desc lang="zh">以澳洲最近发生灾难性森林大火的后续,透过充满希望,人为干预和复原力的故事,记录野生动植物的长期恢复情况.本节目发放了一个十万火急的讯息,不要太迟爱护大自然.</desc>
+    </programme>
+    <programme start="20260819110000 +0800" stop="20260819115000 +0800" channel="1931">
+        <title lang="zh">狗建奇工 #3</title>
+        <desc lang="zh">本集集中在狗只与其(大部份)人类拍档间的卓越合作关系.2018年,一只德国牧羊种的搜救犬与加州特遣队和她的洛杉矶消防员拍档被部署在蒙特西托寻找破坏性泥石流意外的倖存者.在英国,土地调查犬类拍档- 西班牙猎犬与牠们的人类拍档,使用牠们的鼻子进行地下水洩漏搜索.最后,同样在英国,与一只学会阅读的聪...</desc>
+    </programme>
+    <programme start="20260819115000 +0800" stop="20260819124000 +0800" channel="1931">
+        <title lang="zh">捍衞太平洋 #3</title>
+        <desc lang="zh">海洋哺乳类救援队帮助迷路的海龟回家.一头巨大的海狮被发现被十字弓击中,需要吊车才能将牠带到救援中心.马堤博士帮助一只果蝠应付晚年,还有帮助一只好斗的独眼海豹游向自由.</desc>
+    </programme>
+    <programme start="20260819124000 +0800" stop="20260819133500 +0800" channel="1931">
+        <title lang="zh">颠沛流离亚马逊 #1</title>
+        <desc lang="zh">亚马逊热带雨林中,拥有致命力量的掠食者正在捕猎.完美的进化 - 谁将获得胜利?</desc>
+    </programme>
+    <programme start="20260819133500 +0800" stop="20260819143000 +0800" channel="1931">
+        <title lang="zh">颠沛流离亚马逊 #2</title>
+        <desc lang="zh">如同亚马逊的森林一样丰富,寻找爱情和养家一样是个挑战,交配策略也跟动物一样各适其适.</desc>
+    </programme>
+    <programme start="20260819143000 +0800" stop="20260819152500 +0800" channel="1931">
+        <title lang="zh">野生动物急诊室 #4</title>
+        <desc lang="zh">跟随团队的脚步,从囤积的病人中分诊患者,随后与救援人员乔 (Jo) 和尚特尔 (Chantelle) 一起解救纠缠在一起的朱鹮.与兽医梅尔 (Mel) 一起检查一只跳水的考拉宝宝,并与一条致命的东方棕色蛇玩伺机而动的游戏.</desc>
+    </programme>
+    <programme start="20260819152500 +0800" stop="20260819162000 +0800" channel="1931">
+        <title lang="zh">狝猴岛 #3 [英/普]</title>
+        <desc lang="zh">当街头部族发现深山部族侵入他们的领地后,争战一触即发.目击马特诺尔糟糕的育儿技巧,并见证具领袖野心的阿吉特如何展开行动.热浪来袭,迫使大家在森林中共享资源,缓和冲突气氛.</desc>
+    </programme>
+    <programme start="20260819162000 +0800" stop="20260819171500 +0800" channel="1931">
+        <title lang="zh">野火劫后 [英/普]</title>
+        <desc lang="zh">以澳洲最近发生灾难性森林大火的后续,透过充满希望,人为干预和复原力的故事,记录野生动植物的长期恢复情况.本节目发放了一个十万火急的讯息,不要太迟爱护大自然.</desc>
+    </programme>
+    <programme start="20260819171500 +0800" stop="20260819181000 +0800" channel="1931">
+        <title lang="zh">狗建奇工 #3</title>
+        <desc lang="zh">本集集中在狗只与其(大部份)人类拍档间的卓越合作关系.2018年,一只德国牧羊种的搜救犬与加州特遣队和她的洛杉矶消防员拍档被部署在蒙特西托寻找破坏性泥石流意外的倖存者.在英国,土地调查犬类拍档- 西班牙猎犬与牠们的人类拍档,使用牠们的鼻子进行地下水洩漏搜索.最后,同样在英国,与一只学会阅读的聪...</desc>
+    </programme>
+    <programme start="20260819181000 +0800" stop="20260819190500 +0800" channel="1931">
+        <title lang="zh">捍衞太平洋 #3</title>
+        <desc lang="zh">海洋哺乳类救援队帮助迷路的海龟回家.一头巨大的海狮被发现被十字弓击中,需要吊车才能将牠带到救援中心.马堤博士帮助一只果蝠应付晚年,还有帮助一只好斗的独眼海豹游向自由.</desc>
+    </programme>
+    <programme start="20260819190500 +0800" stop="20260819200000 +0800" channel="1931">
+        <title lang="zh">颠沛流离亚马逊 #1</title>
+        <desc lang="zh">亚马逊热带雨林中,拥有致命力量的掠食者正在捕猎.完美的进化 - 谁将获得胜利?</desc>
+    </programme>
+    <programme start="20260819200000 +0800" stop="20260819205500 +0800" channel="1931">
+        <title lang="zh">颠沛流离亚马逊 #2</title>
+        <desc lang="zh">如同亚马逊的森林一样丰富,寻找爱情和养家一样是个挑战,交配策略也跟动物一样各适其适.</desc>
+    </programme>
+    <programme start="20260819205500 +0800" stop="20260819215000 +0800" channel="1931">
+        <title lang="zh">饥饿游戏:阿拉斯加的大熊挑战 #1</title>
+        <desc lang="zh">七只饥肠辘辘的大熊刚从冬眠中甦醒过来,挑战随即展开!一起见证新手妈妈如何与狼群作战,身型细小的跺跺如何争夺地盘和金松少女的爱,并旁观老练的伯尼如何与出其不己的少年卡萨诺瓦搏斗.</desc>
+    </programme>
+    <programme start="20260819215000 +0800" stop="20260819224500 +0800" channel="1931">
+        <title lang="zh">狝猴岛 #3 [英/普]</title>
+        <desc lang="zh">当街头部族发现深山部族侵入他们的领地后,争战一触即发.目击马特诺尔糟糕的育儿技巧,并见证具领袖野心的阿吉特如何展开行动.热浪来袭,迫使大家在森林中共享资源,缓和冲突气氛.</desc>
+    </programme>
+    <programme start="20260819224500 +0800" stop="20260819234000 +0800" channel="1931">
+        <title lang="zh">野火劫后 [英/普]</title>
+        <desc lang="zh">以澳洲最近发生灾难性森林大火的后续,透过充满希望,人为干预和复原力的故事,记录野生动植物的长期恢复情况.本节目发放了一个十万火急的讯息,不要太迟爱护大自然.</desc>
+    </programme>
+    <programme start="20260819234000 +0800" stop="20260820003500 +0800" channel="1931">
+        <title lang="zh">狗建奇工 #3</title>
+        <desc lang="zh">本集集中在狗只与其(大部份)人类拍档间的卓越合作关系.2018年,一只德国牧羊种的搜救犬与加州特遣队和她的洛杉矶消防员拍档被部署在蒙特西托寻找破坏性泥石流意外的倖存者.在英国,土地调查犬类拍档- 西班牙猎犬与牠们的人类拍档,使用牠们的鼻子进行地下水洩漏搜索.最后,同样在英国,与一只学会阅读的聪...</desc>
+    </programme>
     <channel id="1943">
         <display-name lang="zh">潮州民生</display-name>
     </channel>
@@ -245787,6 +247275,198 @@ USA 2026 V tomto speciálním dílu se tým veterinární kliniky stará o milov
     <programme start="20260819072500 +0800" stop="20260819081000 +0800" channel="2141">
         <title lang="zh">Krokodýlí války：格鲁梅蒂 vs. 马拉 / Krokodýlí války: Grumeti vs. Mara&lt;Krokodýlí války: Grumeti vs. Mara&gt;</title>
         <desc lang="zh">JAR 2025 Každý rok se 塞伦盖蒂 mění v bojiště。 Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za cherstvými Pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara。 Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné。 麦芽啤酒，proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější。 Přepady，krádeže úlovků，boj o každý kus masa。 Tohle není jen lov, tohle je válka.,（文档） / JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&lt;JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819072500 +0800" stop="20260819081000 +0800" channel="2141">
+        <title lang="zh">Krokodýlí války：格鲁梅蒂 vs. 马拉 / Krokodýlí války: Grumeti vs. Mara&lt;Krokodýlí války: Grumeti vs. Mara&gt;</title>
+        <desc lang="zh">JAR 2025 Každý rok se 塞伦盖蒂 mění v bojiště。 Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za cherstvými Pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara。 Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné。 麦芽啤酒，proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější。 Přepady，krádeže úlovků，boj o každý kus masa。 Tohle není jen lov, tohle je válka.,（文档） / JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&lt;JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819081000 +0800" stop="20260819085500 +0800" channel="2141">
+        <title lang="zh">克罗科迪尔 – Král australské divočiny / Krokodýl – Král australské divočiny&lt;Krokodýl – Král australské divočiny&gt;</title>
+        <desc lang="zh">JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa。 Během posledních 200 让我来吧，让我成为一名普通民众的爱人。 Odhalujeme，jak tito výjimeční tvorové navzdory všemu dál properují，（文档） / JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa. Během posledních 200 let je komerční lov, zemědělství a růst populace téměř přivedly na pokraj vyhynutí. Odhalujeme, jak tito výjimeční tvorové navzdory všemu dál prosperují, (dokument)&lt;JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa. Během posledních 200 let je komerční lov, zemědělství a růst populace téměř přivedly na pokraj vyhynutí. Odhalujeme, jak tito výjimeční tvorové navzdory všemu dál prosperují, (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819085500 +0800" stop="20260819094000 +0800" channel="2141">
+        <title lang="zh">非洲智慧 I (5) / Smrtící africká říše I (5)&lt;Smrtící africká říše I (5)&gt;</title>
+        <desc lang="zh">（卡拉哈里），JAR 2018 Poušť 卡拉哈里。 Místo nesmírné krásy, zázraků a kontrastu。 Všichni、kteří zde žijí、jsou nadaní jedinečnou schopností Adaptovat se、aby přežili.,（文档，príroda） / (Kalahari), JAR 2018 Poušť Kalahari. Místo nesmírné krásy, zázraků a kontrastu. Všichni, kteří zde žijí, jsou nadaní jedinečnou schopností adaptovat se, aby přežili., (dokument, príroda)&lt;(Kalahari), JAR 2018 Poušť Kalahari. Místo nesmírné krásy, zázraků a kontrastu. Všichni, kteří zde žijí, jsou nadaní jedinečnou schopností adaptovat se, aby přežili., (dokument, príroda)&gt;</desc>
+    </programme>
+    <programme start="20260819094000 +0800" stop="20260819102500 +0800" channel="2141">
+        <title lang="zh">苏博吉·德拉克·兹·巴津 / Souboj draků z bažin&lt;Souboj draků z bažin&gt;</title>
+        <desc lang="zh">美国 2016 年佛罗里达州啤酒和鳄鱼。 Který z nich je ale zuřivějším predátorem？ Porovnáme tyto dva pravěké titány a zjistíme pravdu.,（文档） / USA 2016 Florida je domovem aligátorů, ale i krokodýlů. Který z nich je ale zuřivějším predátorem? Porovnáme tyto dva pravěké titány a zjistíme pravdu., (dokument)&lt;USA 2016 Florida je domovem aligátorů, ale i krokodýlů. Který z nich je ale zuřivějším predátorem? Porovnáme tyto dva pravěké titány a zjistíme pravdu., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819102500 +0800" stop="20260819111000 +0800" channel="2141">
+        <title lang="zh">Krokodýlí války：格鲁梅蒂 vs. 马拉 / Krokodýlí války: Grumeti vs. Mara&lt;Krokodýlí války: Grumeti vs. Mara&gt;</title>
+        <desc lang="zh">JAR 2025 Každý rok se 塞伦盖蒂 mění v bojiště。 Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za cherstvými Pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara。 Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné。 麦芽啤酒，proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější。 Přepady，krádeže úlovků，boj o každý kus masa。 Tohle není jen lov, tohle je válka.,（文档） / JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&lt;JAR 2025 Každý rok se Serengeti mění v bojiště. Dva miliony pakoňů a zeber se vydávají na nebezpečnou pouť za čerstvými pastvinami. V cestě jim ale stojí dvě řeky, dvě říše predátorů - Grumeti a Mara. Každou ovládá nelítostná dynastie nilských krokodýlů, připravená na hostinu roku. V hlubokých vodách řeky Mara vládne síla a hojnost a zabíjet je snadné. Ale v drsné, proměnlivé Grumeti přežijí jen ti nejchytřejší a nejodhodlanější. Přepady, krádeže úlovků, boj o každý kus masa. Tohle není jen lov, tohle je válka., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819111000 +0800" stop="20260819120000 +0800" channel="2141">
+        <title lang="zh">克罗科迪尔 – Král australské divočiny / Krokodýl – Král australské divočiny&lt;Krokodýl – Král australské divočiny&gt;</title>
+        <desc lang="zh">JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa。 Během posledních 200 让我来吧，让我成为一名普通民众的爱人。 Odhalujeme，jak tito výjimeční tvorové navzdory všemu dál properují，（文档） / JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa. Během posledních 200 let je komerční lov, zemědělství a růst populace téměř přivedly na pokraj vyhynutí. Odhalujeme, jak tito výjimeční tvorové navzdory všemu dál prosperují, (dokument)&lt;JAR 2024 Australští mořští krokodýli jsou největší a nejsilnější žijící plazi tohoto kontinentu. Navzdory neustálému tlaku ze strany člověka zůstávají neohroženými pány svého světa. Během posledních 200 let je komerční lov, zemědělství a růst populace téměř přivedly na pokraj vyhynutí. Odhalujeme, jak tito výjimeční tvorové navzdory všemu dál prosperují, (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819120000 +0800" stop="20260819122900 +0800" channel="2141">
+        <title lang="zh">Život psounů I (12) / Život psounů I (12)&lt;Život psounů I (12)&gt;</title>
+        <desc lang="zh">德沃吉特电位器
+ 美国 2018 年墨西哥新墨西哥州锦标赛。 Carl a mláďata se připravují na hibernaci, ale zaskočí je nečekaná spolupráce nebezpečných predátorů ohrožujících jejich domov.,（文档），美国，2018 / Dvojité potíže
+USA 2018 Psouny na severu Nového Mexika čeká zima. Carl a mláďata se připravují na hibernaci, ale zaskočí je nečekaná spolupráce nebezpečných predátorů ohrožujících jejich domov., (dokument), USA, 2018&lt;Dvojité potíže
+USA 2018 Psouny na severu Nového Mexika čeká zima. Carl a mláďata se připravují na hibernaci, ale zaskočí je nečekaná spolupráce nebezpečných predátorů ohrožujících jejich domov., (dokument), USA, 2018&gt;</desc>
+    </programme>
+    <programme start="20260819122900 +0800" stop="20260819131300 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Ve vodě), Velká Británie 2011 Ve vodách naší Planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, abyli úspěšní a přežili., (文档), 2013 / (Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&lt;(Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&gt;</desc>
+    </programme>
+    <programme start="20260819131300 +0800" stop="20260819133600 +0800" channel="2141">
+        <title lang="zh">Skvělá farma doktora Pola I (5) / Skvělá farma doktora Pola I (5)&lt;Skvělá farma doktora Pola I (5)&gt;</title>
+        <desc lang="zh">新时代
+ USA 2022 Polovi potřebují začít pro příchozí dobytek stavět novou hospodářskou budou a Charles přichází se šíleným nápadem。 Velké plany na nákup ovcí a krav v aukci ohrožují rakotově rostoucí nabídky.,（文档） / Nové stádo
+USA 2022 Polovi potřebují začít pro příchozí dobytek stavět novou hospodářskou budou a Charles přichází se šíleným nápadem. Velké plány na nákup ovcí a krav v aukci ohrožují rakotově rostoucí nabídky., (dokument)&lt;Nové stádo
+USA 2022 Polovi potřebují začít pro příchozí dobytek stavět novou hospodářskou budou a Charles přichází se šíleným nápadem. Velké plány na nákup ovcí a krav v aukci ohrožují rakotově rostoucí nabídky., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819133600 +0800" stop="20260819135700 +0800" channel="2141">
+        <title lang="zh">Skvělá farma doktora Pola I (14) / Skvělá farma doktora Pola I (14)&lt;Skvělá farma doktora Pola I (14)&gt;</title>
+        <desc lang="zh">波洛维奇·波德尼克
+ 美国 2022 年 Polovi mají za sebou první rok farmě。 查尔斯·贝内姆 (Charles Benem) 与贝丝·罗兹 (Beth Rozšiřuje) 一起度过了愉快的时光。 Celá rodina se jde, aby společně osázela zahradu a oslavila úspěšný rok farmaření.,（文档） / Polovic podnik
+USA 2022 Polovi mají za sebou první rok farmě. Charles se zotavuje ze zranění, Beth rozšiřuje včelstvo a Charles s Benem vyřeší ovčí přístřešek. Celá rodina se sejde, aby společně osázela zahradu a oslavila úspěšný rok farmaření., (dokument)&lt;Polovic podnik
+USA 2022 Polovi mají za sebou první rok farmě. Charles se zotavuje ze zranění, Beth rozšiřuje včelstvo a Charles s Benem vyřeší ovčí přístřešek. Celá rodina se sejde, aby společně osázela zahradu a oslavila úspěšný rok farmaření., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819135700 +0800" stop="20260819144200 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+ USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce.,（文档，príroda） / (Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&lt;(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&gt;</desc>
+    </programme>
+    <programme start="20260819144200 +0800" stop="20260819152100 +0800" channel="2141">
+        <title lang="zh">Tajemství slonů I (2) / Tajemství slonů I (2)&lt;Tajemství slonů I (2)&gt;</title>
+        <desc lang="zh">萨瓦纳
+ 大不列颠 2021 年，我将在 2021 年 2021 年的 2021 年度盛典中为您带来精彩的体验，并为您提供最优质的服务。 Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují.,（文档，dobrodružstvo），美国，2023 / Savana
+Velká Británie 2021 Uvidíme, jak sloni na savaně zdolávají útesy, hledají si místo v rámci hierarchie stáda či truchlí pro mrtvé. Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují., (dokument, dobrodružstvo), USA, 2023&lt;Savana
+Velká Británie 2021 Uvidíme, jak sloni na savaně zdolávají útesy, hledají si místo v rámci hierarchie stáda či truchlí pro mrtvé. Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují., (dokument, dobrodružstvo), USA, 2023&gt;</desc>
+    </programme>
+    <programme start="20260819152100 +0800" stop="20260819160600 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Ve vodě), Velká Británie 2011 Ve vodách naší Planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, abyli úspěšní a přežili., (文档), 2013 / (Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&lt;(Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&gt;</desc>
+    </programme>
+    <programme start="20260819160600 +0800" stop="20260819165100 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+ USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce.,（文档，príroda） / (Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&lt;(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&gt;</desc>
+    </programme>
+    <programme start="20260819165100 +0800" stop="20260819173000 +0800" channel="2141">
+        <title lang="zh">Tajemství slonů I (2) / Tajemství slonů I (2)&lt;Tajemství slonů I (2)&gt;</title>
+        <desc lang="zh">萨瓦纳
+ 大不列颠 2021 年，我将在 2021 年 2021 年的 2021 年度盛典中为您带来精彩的体验，并为您提供最优质的服务。 Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují.,（文档，dobrodružstvo），美国，2023 / Savana
+Velká Británie 2021 Uvidíme, jak sloni na savaně zdolávají útesy, hledají si místo v rámci hierarchie stáda či truchlí pro mrtvé. Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují., (dokument, dobrodružstvo), USA, 2023&lt;Savana
+Velká Británie 2021 Uvidíme, jak sloni na savaně zdolávají útesy, hledají si místo v rámci hierarchie stáda či truchlí pro mrtvé. Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují., (dokument, dobrodružstvo), USA, 2023&gt;</desc>
+    </programme>
+    <programme start="20260819173000 +0800" stop="20260819180600 +0800" channel="2141">
+        <title lang="zh">Tajemství slonů I (3) / Tajemství slonů I (3)&lt;Tajemství slonů I (3)&gt;</title>
+        <desc lang="zh">亚西
+ Velká Británie 2021 Jak lité pronikají stále hlouběji do jejich teritoria，jsou asijští sloni nuceni zdolávat nové výzvy。 Naučili se spolupracovat se zemědělci a pomáhat jim při práci na čajových plantážích.,（文档，dobrodružstvo），美国，2023 / Asie
+Velká Británie 2021 Jak lidé pronikají stále hlouběji do jejich teritoria, jsou asijští sloni nuceni zdolávat nové výzvy. Naučili se spolupracovat se zemědělci a pomáhat jim při práci na čajových plantážích., (dokument, dobrodružstvo), USA, 2023&lt;Asie
+Velká Británie 2021 Jak lidé pronikají stále hlouběji do jejich teritoria, jsou asijští sloni nuceni zdolávat nové výzvy. Naučili se spolupracovat se zemědělci a pomáhat jim při práci na čajových plantážích., (dokument, dobrodružstvo), USA, 2023&gt;</desc>
+    </programme>
+    <programme start="20260819180600 +0800" stop="20260819184800 +0800" channel="2141">
+        <title lang="zh">Tajemství slonů I (4) / Tajemství slonů I (4)&lt;Tajemství slonů I (4)&gt;</title>
+        <desc lang="zh">目的地
+ Velká Británie 2021 Deštné lesy Konga jsou domovem jednoho z nejplašších živočichů světa, slonů pralesních. Aby přežili ve zdejších extrémních podmínkách, přetvořili okolní les k obrazu svému.,（文档） / Deštný les
+Velká Británie 2021 Deštné lesy Konga jsou domovem jednoho z nejplašších živočichů světa, slonů pralesních. Aby přežili ve zdejších extrémních podmínkách, přetvořili okolní les k obrazu svému., (dokument)&lt;Deštný les
+Velká Británie 2021 Deštné lesy Konga jsou domovem jednoho z nejplašších živočichů světa, slonů pralesních. Aby přežili ve zdejších extrémních podmínkách, přetvořili okolní les k obrazu svému., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819184800 +0800" stop="20260819193300 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Ve vodě), Velká Británie 2011 Ve vodách naší Planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, abyli úspěšní a přežili., (文档), 2013 / (Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&lt;(Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&gt;</desc>
+    </programme>
+    <programme start="20260819193300 +0800" stop="20260819201800 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (2) / Tajný život predátorů I (2)&lt;Tajný život predátorů I (2)&gt;</title>
+        <desc lang="zh">(Nepozorovaní), Velká Británie 2011 Lesní predátoři se musí vypořádat se světem, kde se potrava i sokové mohou vyskytovat za, pod či nad nimi., (文档) / (Nepozorovaní), Velká Británie 2011 Lesní predátoři se musí vypořádat se světem, kde se potrava i sokové mohou vyskytovat za, pod či nad nimi., (dokument)&lt;(Nepozorovaní), Velká Británie 2011 Lesní predátoři se musí vypořádat se světem, kde se potrava i sokové mohou vyskytovat za, pod či nad nimi., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819201800 +0800" stop="20260819210300 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (3) / Tajný život predátorů I (3)&lt;Tajný život predátorů I (3)&gt;</title>
+        <desc lang="zh">(V obnažení), Velká Británie 2011 Predátoři žijící ve volných prostorech se musí ukrývat před očima ostatních, aby přežili, či jako mangusty žíhané spoléhat na sílu v počtu., (文档, 普里罗达） / (V obnažení), Velká Británie 2011 Predátoři žijící ve volných prostorech se musí ukrývat před očima ostatních, aby přežili, či jako mangusty žíhané spoléhat na sílu v počtu., (dokument, príroda)&lt;(V obnažení), Velká Británie 2011 Predátoři žijící ve volných prostorech se musí ukrývat před očima ostatních, aby přežili, či jako mangusty žíhané spoléhat na sílu v počtu., (dokument, príroda)&gt;</desc>
+    </programme>
+    <programme start="20260819210300 +0800" stop="20260819214800 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (4) / Tajný život predátorů I (4)&lt;Tajný život predátorů I (4)&gt;</title>
+        <desc lang="zh">(Bez úkrytu), Velká Británie 2011 Na úpatí hor, okrajích lesů, řek a oceánů se musí lovci přírody professionalizovat, aby mohli přežít., (文档), 2013 / (Bez úkrytu), Velká Británie 2011 Na úpatí hor, okrajích lesů, řek a oceánů se musí lovci přírody specializovat, aby mohli přežít., (dokument), 2013&lt;(Bez úkrytu), Velká Británie 2011 Na úpatí hor, okrajích lesů, řek a oceánů se musí lovci přírody specializovat, aby mohli přežít., (dokument), 2013&gt;</desc>
+    </programme>
+    <programme start="20260819214800 +0800" stop="20260819223300 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+ USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce.,（文档，príroda） / (Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&lt;(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&gt;</desc>
+    </programme>
+    <programme start="20260819223300 +0800" stop="20260819231600 +0800" channel="2141">
+        <title lang="zh">斯克维利博士。 第二十三条 (8) / Skvělý dr. Pol XXIII (8)&lt;Skvělý dr. Pol XXIII (8)&gt;</title>
+        <desc lang="zh">(纳罗泽尼诺瓦·奥斯拉瓦), 纳罗泽尼诺瓦·奥斯拉瓦
+ 美国 2023 年预选赛 2023 年美国兽医比赛 koně.,（系列，文档） / (Narozeninová oslava), Narozeninová oslava
+USA 2023 Před oslavou Dianiných narozenin se tým veterinářů potýká s několika kuriózními případy - od ptáka s poraněným zobákem, kočky se špatným močovým měchýřem až po dýchavičného koně., (seriál, dokument)&lt;(Narozeninová oslava), Narozeninová oslava
+USA 2023 Před oslavou Dianiných narozenin se tým veterinářů potýká s několika kuriózními případy - od ptáka s poraněným zobákem, kočky se špatným močovým měchýřem až po dýchavičného koně., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260819231600 +0800" stop="20260820000000 +0800" channel="2141">
+        <title lang="zh">斯克维利博士。 第二十三条 (9) / Skvělý dr. Pol XXIII (9)&lt;Skvělý dr. Pol XXIII (9)&gt;</title>
+        <desc lang="zh">(Mrzne, až praští), USA 2023 Na farmu míří nové ovce a rodina musí dát do pořádku ovčí přístřešek , ve kterém nefunguje odpad. Blíží se mrazy a páchnoucí močůvkový palác je třeba opravit co nejrychleji.,（系列，文档） / (Mrzne, až praští), USA 2023 Na farmu míří nové ovce a rodina musí dát do pořádku ovčí přístřešek , ve kterém nefunguje odpad. Blíží se mrazy a páchnoucí močůvkový palác je třeba opravit co nejrychleji., (seriál, dokument)&lt;(Mrzne, až praští), USA 2023 Na farmu míří nové ovce a rodina musí dát do pořádku ovčí přístřešek , ve kterém nefunguje odpad. Blíží se mrazy a páchnoucí močůvkový palác je třeba opravit co nejrychleji., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820000000 +0800" stop="20260820004500 +0800" channel="2141">
+        <title lang="zh">克拉洛夫娜·雷克洛斯蒂 / Královna rychlosti&lt;Královna rychlosti&gt;</title>
+        <desc lang="zh">JAR 2020 Gepardice Nzuri má svá první koťata。 Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (文档) / JAR 2020 Gepardice Nzuri má svá první koťata. Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (dokument)&lt;JAR 2020 Gepardice Nzuri má svá první koťata. Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820004500 +0800" stop="20260820012900 +0800" channel="2141">
+        <title lang="zh">玛雅人，泰格里·克拉洛夫纳 / Maya, tygří královna&lt;Maya, tygří královna&gt;</title>
+        <desc lang="zh">JAR 2020 玛雅人与玛雅人一起生活，在当地和印度地区生活，并与当地居民一起度过美好时光 vnitrozemí.，（文件） / JAR 2020 Osiřelá tygřice Maya žije podle vlastních pravidel, bojuje s ostatními šelmami a neváhá se postavit ani jiným tygrům, jen aby uhájila nadvládu nad svým rozsáhlým teritoriem v indickém vnitrozemí., (dokument)&lt;JAR 2020 Osiřelá tygřice Maya žije podle vlastních pravidel, bojuje s ostatními šelmami a neváhá se postavit ani jiným tygrům, jen aby uhájila nadvládu nad svým rozsáhlým teritoriem v indickém vnitrozemí., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820012900 +0800" stop="20260820021500 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+ USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce.,（文档，príroda） / (Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&lt;(Co se skrývá pod povrchem), Co se skrývá pod povrchem
+USA 2016 Řeky a oceány jsou nelítostným bojištěm, které neustále podrobuje odvahu i těch největších a nejnebezpečnějších masožravců zkoušce., (dokument, príroda)&gt;</desc>
+    </programme>
+    <programme start="20260820021500 +0800" stop="20260820030000 +0800" channel="2141">
+        <title lang="zh">克拉洛夫娜·雷克洛斯蒂 / Královna rychlosti&lt;Královna rychlosti&gt;</title>
+        <desc lang="zh">JAR 2020 Gepardice Nzuri má svá první koťata。 Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (文档) / JAR 2020 Gepardice Nzuri má svá první koťata. Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (dokument)&lt;JAR 2020 Gepardice Nzuri má svá první koťata. Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820030000 +0800" stop="20260820034300 +0800" channel="2141">
+        <title lang="zh">斯克维利博士。 第二十三条 (8) / Skvělý dr. Pol XXIII (8)&lt;Skvělý dr. Pol XXIII (8)&gt;</title>
+        <desc lang="zh">(纳罗泽尼诺瓦·奥斯拉瓦), 纳罗泽尼诺瓦·奥斯拉瓦
+ 美国 2023 年预选赛 2023 年美国兽医比赛 koně.,（系列，文档） / (Narozeninová oslava), Narozeninová oslava
+USA 2023 Před oslavou Dianiných narozenin se tým veterinářů potýká s několika kuriózními případy - od ptáka s poraněným zobákem, kočky se špatným močovým měchýřem až po dýchavičného koně., (seriál, dokument)&lt;(Narozeninová oslava), Narozeninová oslava
+USA 2023 Před oslavou Dianiných narozenin se tým veterinářů potýká s několika kuriózními případy - od ptáka s poraněným zobákem, kočky se špatným močovým měchýřem až po dýchavičného koně., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820034300 +0800" stop="20260820042600 +0800" channel="2141">
+        <title lang="zh">斯克维利博士。 第二十三条 (9) / Skvělý dr. Pol XXIII (9)&lt;Skvělý dr. Pol XXIII (9)&gt;</title>
+        <desc lang="zh">(Mrzne, až praští), USA 2023 Na farmu míří nové ovce a rodina musí dát do pořádku ovčí přístřešek , ve kterém nefunguje odpad. Blíží se mrazy a páchnoucí močůvkový palác je třeba opravit co nejrychleji.,（系列，文档） / (Mrzne, až praští), USA 2023 Na farmu míří nové ovce a rodina musí dát do pořádku ovčí přístřešek , ve kterém nefunguje odpad. Blíží se mrazy a páchnoucí močůvkový palác je třeba opravit co nejrychleji., (seriál, dokument)&lt;(Mrzne, až praští), USA 2023 Na farmu míří nové ovce a rodina musí dát do pořádku ovčí přístřešek , ve kterém nefunguje odpad. Blíží se mrazy a páchnoucí močůvkový palác je třeba opravit co nejrychleji., (seriál, dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820042600 +0800" stop="20260820051100 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (2) / Tajný život predátorů I (2)&lt;Tajný život predátorů I (2)&gt;</title>
+        <desc lang="zh">(Nepozorovaní), Velká Británie 2011 Lesní predátoři se musí vypořádat se světem, kde se potrava i sokové mohou vyskytovat za, pod či nad nimi., (文档) / (Nepozorovaní), Velká Británie 2011 Lesní predátoři se musí vypořádat se světem, kde se potrava i sokové mohou vyskytovat za, pod či nad nimi., (dokument)&lt;(Nepozorovaní), Velká Británie 2011 Lesní predátoři se musí vypořádat se světem, kde se potrava i sokové mohou vyskytovat za, pod či nad nimi., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820051100 +0800" stop="20260820055600 +0800" channel="2141">
+        <title lang="zh">克拉洛夫娜·雷克洛斯蒂 / Královna rychlosti&lt;Královna rychlosti&gt;</title>
+        <desc lang="zh">JAR 2020 Gepardice Nzuri má svá první koťata。 Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (文档) / JAR 2020 Gepardice Nzuri má svá první koťata. Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (dokument)&lt;JAR 2020 Gepardice Nzuri má svá první koťata. Aby sebe i je ochránila před predátory a nakrmila, musí se ještě zdokonalit v rychlosti., (dokument)&gt;</desc>
+    </programme>
+    <programme start="20260820055600 +0800" stop="20260820064100 +0800" channel="2141">
+        <title lang="zh">Tajný život predátorů I (1) / Tajný život predátorů I (1)&lt;Tajný život predátorů I (1)&gt;</title>
+        <desc lang="zh">(Ve vodě), Velká Británie 2011 Ve vodách naší Planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, abyli úspěšní a přežili., (文档), 2013 / (Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&lt;(Ve vodě), Velká Británie 2011 Ve vodách naší planety čelí predátoři roztodivných tvarů a rozměrů mnohým překážkám, aby byli úspěšní a přežili., (dokument), 2013&gt;</desc>
+    </programme>
+    <programme start="20260820064100 +0800" stop="20260820072000 +0800" channel="2141">
+        <title lang="zh">Tajemství slonů I (2) / Tajemství slonů I (2)&lt;Tajemství slonů I (2)&gt;</title>
+        <desc lang="zh">萨瓦纳
+ 大不列颠 2021 年，我将在 2021 年 2021 年的 2021 年度盛典中为您带来精彩的体验，并为您提供最优质的服务。 Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují.,（文档，dobrodružstvo），美国，2023 / Savana
+Velká Británie 2021 Uvidíme, jak sloni na savaně zdolávají útesy, hledají si místo v rámci hierarchie stáda či truchlí pro mrtvé. Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují., (dokument, dobrodružstvo), USA, 2023&lt;Savana
+Velká Británie 2021 Uvidíme, jak sloni na savaně zdolávají útesy, hledají si místo v rámci hierarchie stáda či truchlí pro mrtvé. Díky tomu porozumíme tajům jejich jedinečné komunikace a pevným vazbám, které je spojují., (dokument, dobrodružstvo), USA, 2023&gt;</desc>
+    </programme>
+    <programme start="20260820072000 +0800" stop="20260820075600 +0800" channel="2141">
+        <title lang="zh">Tajemství slonů I (3) / Tajemství slonů I (3)&lt;Tajemství slonů I (3)&gt;</title>
+        <desc lang="zh">亚西
+ Velká Británie 2021 Jak lité pronikají stále hlouběji do jejich teritoria，jsou asijští sloni nuceni zdolávat nové výzvy。 Naučili se spolupracovat se zemědělci a pomáhat jim při práci na čajových plantážích.,（文档，dobrodružstvo），美国，2023 / Asie
+Velká Británie 2021 Jak lidé pronikají stále hlouběji do jejich teritoria, jsou asijští sloni nuceni zdolávat nové výzvy. Naučili se spolupracovat se zemědělci a pomáhat jim při práci na čajových plantážích., (dokument, dobrodružstvo), USA, 2023&lt;Asie
+Velká Británie 2021 Jak lidé pronikají stále hlouběji do jejich teritoria, jsou asijští sloni nuceni zdolávat nové výzvy. Naučili se spolupracovat se zemědělci a pomáhat jim při práci na čajových plantážích., (dokument, dobrodružstvo), USA, 2023&gt;</desc>
+    </programme>
+    <programme start="20260820075600 +0800" stop="20260820083800 +0800" channel="2141">
+        <title lang="zh">Tajemství slonů I (4) / Tajemství slonů I (4)&lt;Tajemství slonů I (4)&gt;</title>
+        <desc lang="zh">目的地
+ Velká Británie 2021 Deštné lesy Konga jsou domovem jednoho z nejplašších živočichů světa, slonů pralesních. Aby přežili ve zdejších extrémních podmínkách, přetvořili okolní les k obrazu svému.,（文档） / Deštný les
+Velká Británie 2021 Deštné lesy Konga jsou domovem jednoho z nejplašších živočichů světa, slonů pralesních. Aby přežili ve zdejších extrémních podmínkách, přetvořili okolní les k obrazu svému., (dokument)&lt;Deštný les
+Velká Británie 2021 Deštné lesy Konga jsou domovem jednoho z nejplašších živočichů světa, slonů pralesních. Aby přežili ve zdejších extrémních podmínkách, přetvořili okolní les k obrazu svému., (dokument)&gt;</desc>
     </programme>
     <channel id="2143">
         <display-name lang="zh">东方卫视超高清</display-name>
