@@ -221193,6 +221193,54 @@
         <title lang="zh">请留意下场播映赛事</title>
         <desc lang="zh">stay tuned for the next broadcast</desc>
     </programme>
+    <programme start="20260820000000 +0800" stop="20260820020000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820020000 +0800" stop="20260820040000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820040000 +0800" stop="20260820060000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820060000 +0800" stop="20260820080000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820080000 +0800" stop="20260820100000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820100000 +0800" stop="20260820120000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820120000 +0800" stop="20260820140000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820140000 +0800" stop="20260820160000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820160000 +0800" stop="20260820180000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820180000 +0800" stop="20260820200000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820200000 +0800" stop="20260820220000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
+    <programme start="20260820220000 +0800" stop="20260821000000 +0800" channel="1888">
+        <title lang="zh">请留意下场播映赛事</title>
+        <desc lang="zh">stay tuned for the next broadcast</desc>
+    </programme>
     <channel id="1895">
         <display-name lang="zh">翡翠台™</display-name>
     </channel>
