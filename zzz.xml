@@ -205429,6 +205429,62 @@
         <title lang="zh">2026/2027歐洲冠軍聯賽 ：林茨 對 些路迪 - 次回合附加賽</title>
         <desc lang="zh"></desc>
     </programme>
+    <programme start="20260828095900 +0800" stop="20260828100000 +0800" channel="1903">
+        <title lang="zh">開台</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828100000 +0800" stop="20260828120000 +0800" channel="1903">
+        <title lang="zh">2026FIFA世界盃：約旦 對 阿根廷</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828120000 +0800" stop="20260828130000 +0800" channel="1903">
+        <title lang="zh">2025/2026亞洲勒芒系列賽精華</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828130000 +0800" stop="20260828131500 +0800" channel="1903">
+        <title lang="zh">體育新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828131500 +0800" stop="20260828153500 +0800" channel="1903">
+        <title lang="zh">2026法國網球公開賽：女單8強</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828153500 +0800" stop="20260828190500 +0800" channel="1903">
+        <title lang="zh">2026法國網球公開賽：男單8強</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828190500 +0800" stop="20260828200000 +0800" channel="1903">
+        <title lang="zh">2026中國羽毛球公開賽：女單決賽</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828200000 +0800" stop="20260828201500 +0800" channel="1903">
+        <title lang="zh">全攻亞運</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828201500 +0800" stop="20260828205000 +0800" channel="1903">
+        <title lang="zh">2026/2027西班牙甲組足球聯賽精華</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828205000 +0800" stop="20260828210000 +0800" channel="1903">
+        <title lang="zh">體育新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828210000 +0800" stop="20260828220000 +0800" channel="1903">
+        <title lang="zh">2026街頭聯盟滑板賽精華：第一集 悉尼站 - 男子組</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828220000 +0800" stop="20260828225500 +0800" channel="1903">
+        <title lang="zh">2026年超級跑車錦標賽精華：第十四集-湯斯維爾站</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828225500 +0800" stop="20260828230000 +0800" channel="1903">
+        <title lang="zh">體育新聞</title>
+        <desc lang="zh"></desc>
+    </programme>
+    <programme start="20260828230000 +0800" stop="20260829010000 +0800" channel="1903">
+        <title lang="zh">2026/2027歐洲冠軍聯賽 ：波杜基林特 對 尼美根 - 次回合附加賽</title>
+        <desc lang="zh"></desc>
+    </programme>
     <channel id="1904">
         <display-name lang="zh">澳门综艺</display-name>
     </channel>
